@@ -1,0 +1,245 @@
+\select@language {italian}
+\contentsline {chapter}{\numberline {1}Relazioni Idriche}{9}{chapter.1}
+\contentsline {paragraph}{Contenuto idrico}{10}{section*.2}
+\contentsline {section}{\numberline {1.1}Caratteristiche molecolari dell'acqua}{10}{section.1.1}
+\contentsline {paragraph}{Propriet\IeC {\`a} di termoregolazione}{10}{section*.4}
+\contentsline {paragraph}{Propriet\IeC {\`a} di coesione e adesione}{11}{section*.5}
+\contentsline {section}{\numberline {1.2}Come avviene il movimento d'acqua?}{11}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Diffusione}{11}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Flusso di massa}{12}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Osmosi}{12}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}Potenziale idrico}{12}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Diagramma di Hofler}{14}{subsection.1.3.1}
+\contentsline {paragraph}{Plasmolisi}{15}{section*.7}
+\contentsline {section}{\numberline {1.4}Metodi per la misurazione del potenziale idrico dei tessuti}{15}{section.1.4}
+\contentsline {chapter}{\numberline {2}Movimento dell'acqua: suolo, pianta e atmosfera}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}Il suolo}{17}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Struttura}{19}{subsection.2.1.1}
+\contentsline {paragraph}{Humus}{19}{section*.8}
+\contentsline {paragraph}{}{19}{section*.9}
+\contentsline {subsection}{\numberline {2.1.2}pH del suolo}{20}{subsection.2.1.2}
+\contentsline {paragraph}{Scambio cationico dell'argilla}{21}{section*.10}
+\contentsline {section}{\numberline {2.2}Assorbimento di acqua a livello della radice}{21}{section.2.2}
+\contentsline {paragraph}{Xilema}{22}{section*.12}
+\contentsline {subsection}{\numberline {2.2.1}Salita della linfa grezza}{23}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Movimento dell'acqua dalla foglia all'atmosfera}{24}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Teoria della tensione-coesione-adesione}{25}{subsection.2.2.3}
+\contentsline {paragraph}{Recapitolando...}{25}{section*.14}
+\contentsline {subsection}{\numberline {2.2.4}Misurazione del potenziale di pressione nei vasi xilematici}{26}{subsection.2.2.4}
+\contentsline {paragraph}{Bomba a pressione}{26}{section*.15}
+\contentsline {subsection}{\numberline {2.2.5}Cavitazione ed embolia}{27}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Velocit\IeC {\`a} del flusso della linfa xilematica}{27}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Pressione radicale}{28}{subsection.2.2.7}
+\contentsline {section}{\numberline {2.3}Traspirazione stomatica}{29}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Stomi}{31}{subsection.2.3.1}
+\contentsline {paragraph}{Recapitolando...}{32}{section*.19}
+\contentsline {subsection}{\numberline {2.3.2}Andamento dell'apertura stomatica}{32}{subsection.2.3.2}
+\contentsline {paragraph}{Come agisce la zeaxantina?}{33}{section*.20}
+\contentsline {subsection}{\numberline {2.3.3}Acido abscissico (ABA)}{34}{subsection.2.3.3}
+\contentsline {chapter}{\numberline {3}Nutrizione minerale}{35}{chapter.3}
+\contentsline {paragraph}{Applicazione fogliare}{37}{section*.26}
+\contentsline {section}{\numberline {3.1}Carenze nutritive}{38}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}AZOTO}{40}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Macronutrienti}{41}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Fosforo}{41}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Potassio}{41}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Zolfo}{42}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Calcio}{42}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Magnesio}{42}{subsection.3.2.5}
+\contentsline {section}{\numberline {3.3}Micronutrienti}{42}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Ferro}{42}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Boro}{42}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Rame}{43}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Zinco}{43}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Manganese}{43}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Molibdeno}{43}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}Cloro}{43}{subsection.3.3.7}
+\contentsline {subsection}{\numberline {3.3.8}Nickel}{44}{subsection.3.3.8}
+\contentsline {section}{\numberline {3.4}Trasporto cellulare}{44}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Cinetiche di trasporto}{44}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Un caso particolre: il ferro}{45}{subsection.3.4.2}
+\contentsline {paragraph}{Strategia I}{46}{section*.31}
+\contentsline {paragraph}{Strategia II}{46}{section*.32}
+\contentsline {paragraph}{}{47}{section*.33}
+\contentsline {section}{\numberline {3.5}Assorbimento degli ioni}{47}{section.3.5}
+\contentsline {section}{\numberline {3.6}Interazioni radici-batteri}{48}{section.3.6}
+\contentsline {paragraph}{Ectomicorrizze}{48}{section*.35}
+\contentsline {paragraph}{Endomicorrizze}{49}{section*.36}
+\contentsline {paragraph}{}{49}{section*.37}
+\contentsline {subsection}{\numberline {3.6.1}Ruoli fisiologici}{49}{subsection.3.6.1}
+\contentsline {section}{\numberline {3.7}Ciclo biogeochimico dell'azoto}{50}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Assimilazione dell'N}{51}{subsection.3.7.1}
+\contentsline {section}{\numberline {3.8}Assorbimento dell'azoto}{52}{section.3.8}
+\contentsline {subsection}{\numberline {3.8.1}Assorbimento del nitrato}{52}{subsection.3.8.1}
+\contentsline {paragraph}{Trasportatori del nitrato}{53}{section*.41}
+\contentsline {subsection}{\numberline {3.8.2}Riduzione del nitrato}{55}{subsection.3.8.2}
+\contentsline {paragraph}{}{55}{section*.44}
+\contentsline {paragraph}{Regolazione del processo}{56}{section*.46}
+\contentsline {subsection}{\numberline {3.8.3}Assimilazione dell'ammoniaca: ciclo GS-GOGAT}{57}{subsection.3.8.3}
+\contentsline {subsection}{\numberline {3.8.4}Sintesi di amminoacidi}{59}{subsection.3.8.4}
+\contentsline {paragraph}{Esperimento}{59}{section*.49}
+\contentsline {subsection}{\numberline {3.8.5}La fissazione biologia dell'azoto}{60}{subsection.3.8.5}
+\contentsline {subsection}{\numberline {3.8.6}L'eterocisti delle alghe azzurre}{61}{subsection.3.8.6}
+\contentsline {section}{\numberline {3.9}La fissazione azotata nelle Leguminose}{62}{section.3.9}
+\contentsline {subsection}{\numberline {3.9.1}Comunicazione}{63}{subsection.3.9.1}
+\contentsline {subsection}{\numberline {3.9.2}La via comune di segnalazione SYM}{64}{subsection.3.9.2}
+\contentsline {subsection}{\numberline {3.9.3}La fisiologia del nodulo}{65}{subsection.3.9.3}
+\contentsline {subsection}{\numberline {3.9.4}Bilancio energetico dell'azotofissazione}{65}{subsection.3.9.4}
+\contentsline {chapter}{\numberline {4}La fotosintesi}{67}{chapter.4}
+\contentsline {paragraph}{Genoma del cloroplasto}{68}{section*.53}
+\contentsline {paragraph}{}{68}{section*.54}
+\contentsline {paragraph}{Irradianza}{69}{section*.55}
+\contentsline {paragraph}{Pigmenti fotosintetici}{70}{section*.56}
+\contentsline {paragraph}{Lo spettro di assorbimento delle clorofille}{70}{section*.57}
+\contentsline {section}{\numberline {4.1}Carotenoidi}{70}{section.4.1}
+\contentsline {paragraph}{Caroteni}{71}{section*.58}
+\contentsline {paragraph}{Xantofille}{71}{section*.59}
+\contentsline {section}{\numberline {4.2}De-eccitazione dei pigmenti}{72}{section.4.2}
+\contentsline {paragraph}{Decadimento non radiante}{72}{section*.60}
+\contentsline {paragraph}{Decadimento radiante}{72}{section*.61}
+\contentsline {paragraph}{Risonanza}{72}{section*.62}
+\contentsline {paragraph}{Reazioni fotochimiche}{73}{section*.63}
+\contentsline {paragraph}{}{73}{section*.64}
+\contentsline {section}{\numberline {4.3}Pigmenti e proteine che costituiscono il fotosistema}{73}{section.4.3}
+\contentsline {section}{\numberline {4.4}Fotosistemi I e II}{74}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Fotosistema II}{76}{subsection.4.4.1}
+\contentsline {paragraph}{Complesso antenna associato (LHC II)}{76}{section*.66}
+\contentsline {paragraph}{}{76}{section*.67}
+\contentsline {subsection}{\numberline {4.4.2}Ossidazione fotosintetica dell'acqua}{77}{subsection.4.4.2}
+\contentsline {paragraph}{Citocromo b6F}{77}{section*.68}
+\contentsline {paragraph}{Plastocianina}{78}{section*.70}
+\contentsline {paragraph}{}{79}{section*.71}
+\contentsline {section}{\numberline {4.5}Fotosistema I}{79}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Trasporto elettronico}{80}{subsection.4.5.1}
+\contentsline {section}{\numberline {4.6}Regolazione dell'assorbimento della luce}{81}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Il trasporto ciclico}{82}{subsection.4.6.1}
+\contentsline {paragraph}{Ruolo della ferridossina}{82}{section*.75}
+\contentsline {section}{\numberline {4.7}Fotofosforilazione}{82}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}ATP sintasi}{84}{subsection.4.7.1}
+\contentsline {paragraph}{$CF_{0}$}{84}{section*.77}
+\contentsline {paragraph}{$CF_{1}$}{84}{section*.78}
+\contentsline {paragraph}{}{84}{section*.79}
+\contentsline {chapter}{\numberline {5}Fase oscura fotosintesi}{87}{chapter.5}
+\contentsline {section}{\numberline {5.1}Ciclo di Calvin}{87}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Carbossilazione}{88}{subsection.5.1.1}
+\contentsline {paragraph}{RuBisCO}{89}{section*.83}
+\contentsline {subsection}{\numberline {5.1.2}Riduzione}{90}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Rigenerazione}{90}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Stechiometria del ciclo di Calvin}{92}{subsection.5.1.4}
+\contentsline {section}{\numberline {5.2}Regolazione del ciclo di Calvin}{92}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Regolazione in funzione della velocit\IeC {\`a} alla quale il C \IeC {\`e} utilizzato per la sintesi dei carboidrati}{92}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Regolazione ad opera della luce}{93}{subsection.5.2.2}
+\contentsline {paragraph}{Regolazione da parte della luce mediante ferridossina-tioredossina}{94}{section*.88}
+\contentsline {subsection}{\numberline {5.2.3}Regolazione per attivazione catalitica della RuBisCO}{95}{subsection.5.2.3}
+\contentsline {section}{\numberline {5.3}Fotorespirazione}{95}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Gli organuli}{97}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Fase 1}{97}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Fase 2}{98}{subsection.5.3.3}
+\contentsline {paragraph}{Traslocatore malato-2-ossoglutarato}{99}{section*.92}
+\contentsline {subsection}{\numberline {5.3.4}Funzioni fotorespirazione}{99}{subsection.5.3.4}
+\contentsline {paragraph}{Quanto C assimilato viene liberato come $CO_{2}$ a seguito della rezione di ossigenazione della RuBisCO?}{99}{section*.94}
+\contentsline {paragraph}{}{100}{section*.95}
+\contentsline {section}{\numberline {5.4}Destino degli zuccheri prodotti dal ciclo di Calvin}{100}{section.5.4}
+\contentsline {paragraph}{Saccarosio}{101}{section*.96}
+\contentsline {subsection}{\numberline {5.4.1}Sintesi di saccarosio}{101}{subsection.5.4.1}
+\contentsline {paragraph}{Amido}{102}{section*.99}
+\contentsline {subsection}{\numberline {5.4.2}Sintesi di amido}{103}{subsection.5.4.2}
+\contentsline {chapter}{\numberline {6}Fotoinibizione}{105}{chapter.6}
+\contentsline {section}{\numberline {6.1}Fotoinibizione dinamica}{106}{section.6.1}
+\contentsline {section}{\numberline {6.2}Fotoinibizione cronica}{107}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Altri meccanismi protettivi}{107}{subsection.6.2.1}
+\contentsline {chapter}{\numberline {7}Fotosintesi CAM e C4}{109}{chapter.7}
+\contentsline {section}{\numberline {7.1}C4}{109}{section.7.1}
+\contentsline {subsection}{\numberline {7.1.1}Enzima decarbossilante}{110}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {7.1.2}Enzima malico NADP}{110}{subsection.7.1.2}
+\contentsline {paragraph}{Riassumendo}{112}{section*.103}
+\contentsline {paragraph}{Da dove viene in NADPH?}{112}{section*.104}
+\contentsline {subsection}{\numberline {7.1.3}Perch\IeC {\`e} le cellule della guaina del fascio non producono NADPH?}{112}{subsection.7.1.3}
+\contentsline {section}{\numberline {7.2}Recolazione ciclo C4}{113}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Punto di compensazione per la $CO_{2}$}{114}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Caratteristiche piante C3}{114}{subsection.7.2.2}
+\contentsline {section}{\numberline {7.3}CAM}{114}{section.7.3}
+\contentsline {section}{\numberline {7.4}Confronto CAM e C4}{115}{section.7.4}
+\contentsline {chapter}{\numberline {8}Trasporto floematico}{117}{chapter.8}
+\contentsline {section}{\numberline {8.1}Cellule compagne}{117}{section.8.1}
+\contentsline {paragraph}{Sorgente}{118}{section*.106}
+\contentsline {paragraph}{Pozzi}{118}{section*.107}
+\contentsline {paragraph}{}{118}{section*.108}
+\contentsline {subsection}{\numberline {8.1.1}Componenti floematiche}{118}{subsection.8.1.1}
+\contentsline {paragraph}{Esperimento di Malpighi}{118}{section*.109}
+\contentsline {paragraph}{Esperimento di Munch}{119}{section*.110}
+\contentsline {paragraph}{Modello del flusso di pressione}{119}{section*.111}
+\contentsline {section}{\numberline {8.2}Caricamento del floema}{119}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Caricamento simplastico}{119}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Caricamento apoplastico}{120}{subsection.8.2.2}
+\contentsline {section}{\numberline {8.3}Scaricamento del floema}{120}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Simplastico}{120}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Apoplastico}{120}{subsection.8.3.2}
+\contentsline {chapter}{\numberline {9}Ormoni vegetali}{121}{chapter.9}
+\contentsline {section}{\numberline {9.1}Auxina}{121}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Biosintesi dell'auxina}{122}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Localizzazione dell'auxina}{123}{subsection.9.1.2}
+\contentsline {paragraph}{Catabolismo ossidativo dell'auxina}{124}{section*.114}
+\contentsline {subsection}{\numberline {9.1.3}Trasporto di auxina}{124}{subsection.9.1.3}
+\contentsline {paragraph}{Modello di diffusione chemiosmotica}{124}{section*.115}
+\contentsline {section}{\numberline {9.2}Vie di trasduzione dell'auxina : percezione e signaling}{126}{section.9.2}
+\contentsline {paragraph}{ABP1}{126}{section*.117}
+\contentsline {section}{\numberline {9.3}Effetti fisiologici dell'auxina}{127}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Teoria della crescita acida}{128}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Modello di Cholodny-Went}{128}{subsection.9.3.2}
+\contentsline {paragraph}{Fototropismo}{129}{section*.120}
+\contentsline {paragraph}{Gravitropismo}{129}{section*.122}
+\contentsline {paragraph}{}{129}{section*.123}
+\contentsline {subsection}{\numberline {9.3.3}Effetti dell'auxina sullo sviluppo}{130}{subsection.9.3.3}
+\contentsline {paragraph}{Dominanza apicale}{132}{section*.126}
+\contentsline {paragraph}{}{132}{section*.127}
+\contentsline {chapter}{\numberline {10}Gibberelline}{133}{chapter.10}
+\contentsline {section}{\numberline {10.1}Trasduzione del segnale}{133}{section.10.1}
+\contentsline {paragraph}{GID}{134}{section*.129}
+\contentsline {subsection}{\numberline {10.1.1}Cereali}{134}{subsection.10.1.1}
+\contentsline {section}{\numberline {10.2}Effetti fisiologici}{135}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Effetti sull'allungamento del fusto}{135}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}Effetti sul passaggio dalla fase giovanile a quella adulta}{136}{subsection.10.2.2}
+\contentsline {subsection}{\numberline {10.2.3}Effetti sulla maturazione del frutto}{136}{subsection.10.2.3}
+\contentsline {subsection}{\numberline {10.2.4}Germinazione dell'orzo}{136}{subsection.10.2.4}
+\contentsline {chapter}{\numberline {11}Citochinine}{137}{chapter.11}
+\contentsline {section}{\numberline {11.1}Struttura delle citochinine}{138}{section.11.1}
+\contentsline {section}{\numberline {11.2}Biosintesi delle citochinine}{138}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}Biosintesi della trans-zeatina}{139}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.2}Catabolismo}{140}{subsection.11.2.2}
+\contentsline {section}{\numberline {11.3}Trasporto delle citochinine nella pianta}{140}{section.11.3}
+\contentsline {section}{\numberline {11.4}Trasduzione del segnale}{141}{section.11.4}
+\contentsline {subsection}{\numberline {11.4.1}Fosforelay in Arabidopsis}{142}{subsection.11.4.1}
+\contentsline {section}{\numberline {11.5}Funzioni}{143}{section.11.5}
+\contentsline {chapter}{\numberline {12}Etilene: effetti sullo sviluppo e sulla fisiologia delle piante}{145}{chapter.12}
+\contentsline {paragraph}{Epinastia fogliare}{146}{section*.136}
+\contentsline {section}{\numberline {12.1}Senescenza fogliare}{147}{section.12.1}
+\contentsline {section}{\numberline {12.2}Difesa}{147}{section.12.2}
+\contentsline {chapter}{\numberline {13}Acido Abscissico}{149}{chapter.13}
+\contentsline {section}{\numberline {13.1}Catabolismo}{149}{section.13.1}
+\contentsline {section}{\numberline {13.2}Movimenti di ABA nella pianta}{149}{section.13.2}
+\contentsline {chapter}{\numberline {14}Fisiologia dello stress}{151}{chapter.14}
+\contentsline {section}{\numberline {14.1}Meccanismi di resistenza allo stress}{152}{section.14.1}
+\contentsline {paragraph}{Fuga dallo stress}{152}{section*.138}
+\contentsline {paragraph}{}{152}{section*.139}
+\contentsline {paragraph}{Adattamento}{152}{section*.140}
+\contentsline {paragraph}{Acclimatazione}{152}{section*.141}
+\contentsline {paragraph}{}{152}{section*.142}
+\contentsline {subsection}{\numberline {14.1.1}Bio-membrane}{152}{subsection.14.1.1}
+\contentsline {section}{\numberline {14.2}Stress da carenza idrica}{153}{section.14.2}
+\contentsline {subsubsection}{Aggiustamento osmotico}{154}{section*.144}
+\contentsline {paragraph}{Sensible heat loss}{155}{section*.146}
+\contentsline {subsubsection}{Proteine LEA}{156}{section*.148}
+\contentsline {paragraph}{}{156}{figure.caption.150}
+\contentsline {section}{\numberline {14.3}Stress salino}{156}{section.14.3}
+\contentsline {paragraph}{Esperimento}{157}{section*.151}
+\contentsline {section}{\numberline {14.4}Stress da calore}{159}{section.14.4}
+\contentsline {subsection}{\numberline {14.4.1}Piante a metabolismo diverso}{159}{subsection.14.4.1}
+\contentsline {section}{\numberline {14.5}Heat shock proteins}{161}{section.14.5}
+\contentsline {section}{\numberline {14.6}Chilling e freezing}{161}{section.14.6}
+\contentsline {paragraph}{}{162}{section*.152}
+\contentsline {chapter}{\numberline {15}Stress da metalli pesanti}{165}{chapter.15}
+\contentsline {section}{\numberline {15.1}Stress ossidativo}{167}{section.15.1}
+\contentsline {chapter}{\numberline {16}Ecofisiologia della fotosintesi}{169}{chapter.16}
+\contentsline {section}{\numberline {16.1}Fotosintesi: fisiologia ed ecofisiologia}{172}{section.16.1}
+\contentsline {section}{\numberline {16.2}Acclimatazione}{174}{section.16.2}
