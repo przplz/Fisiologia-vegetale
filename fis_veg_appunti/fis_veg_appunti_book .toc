@@ -159,87 +159,90 @@
 \contentsline {subsection}{\numberline {7.2.1}Punto di compensazione per la $CO_{2}$}{114}{subsection.7.2.1}
 \contentsline {subsection}{\numberline {7.2.2}Caratteristiche piante C3}{114}{subsection.7.2.2}
 \contentsline {section}{\numberline {7.3}CAM}{114}{section.7.3}
-\contentsline {section}{\numberline {7.4}Confronto CAM e C4}{115}{section.7.4}
+\contentsline {subsection}{\numberline {7.3.1}CAM cycling}{115}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Discriminazione isotipica}{115}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.3}Confronto CAM e C4}{115}{subsection.7.3.3}
 \contentsline {chapter}{\numberline {8}Trasporto floematico}{117}{chapter.8}
-\contentsline {section}{\numberline {8.1}Cellule compagne}{117}{section.8.1}
+\contentsline {section}{\numberline {8.1}Cellule compagne}{118}{section.8.1}
 \contentsline {paragraph}{Sorgente}{118}{section*.106}
 \contentsline {paragraph}{Pozzi}{118}{section*.107}
-\contentsline {paragraph}{}{118}{section*.108}
-\contentsline {subsection}{\numberline {8.1.1}Componenti floematiche}{118}{subsection.8.1.1}
-\contentsline {paragraph}{Esperimento di Malpighi}{118}{section*.109}
+\contentsline {paragraph}{}{119}{section*.108}
+\contentsline {subsection}{\numberline {8.1.1}Componenti floematiche}{119}{subsection.8.1.1}
+\contentsline {paragraph}{Esperimento di Malpighi}{119}{section*.109}
 \contentsline {paragraph}{Esperimento di Munch}{119}{section*.110}
 \contentsline {paragraph}{Modello del flusso di pressione}{119}{section*.111}
-\contentsline {section}{\numberline {8.2}Caricamento del floema}{119}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Caricamento simplastico}{119}{subsection.8.2.1}
+\contentsline {section}{\numberline {8.2}Caricamento del floema}{120}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Caricamento simplastico}{120}{subsection.8.2.1}
 \contentsline {subsection}{\numberline {8.2.2}Caricamento apoplastico}{120}{subsection.8.2.2}
 \contentsline {section}{\numberline {8.3}Scaricamento del floema}{120}{section.8.3}
 \contentsline {subsection}{\numberline {8.3.1}Simplastico}{120}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Apoplastico}{120}{subsection.8.3.2}
-\contentsline {chapter}{\numberline {9}Ormoni vegetali}{121}{chapter.9}
-\contentsline {section}{\numberline {9.1}Auxina}{121}{section.9.1}
-\contentsline {subsection}{\numberline {9.1.1}Biosintesi dell'auxina}{122}{subsection.9.1.1}
-\contentsline {subsection}{\numberline {9.1.2}Localizzazione dell'auxina}{123}{subsection.9.1.2}
-\contentsline {paragraph}{Catabolismo ossidativo dell'auxina}{124}{section*.114}
-\contentsline {subsection}{\numberline {9.1.3}Trasporto di auxina}{124}{subsection.9.1.3}
-\contentsline {paragraph}{Modello di diffusione chemiosmotica}{124}{section*.115}
-\contentsline {section}{\numberline {9.2}Vie di trasduzione dell'auxina : percezione e signaling}{126}{section.9.2}
-\contentsline {paragraph}{ABP1}{126}{section*.117}
-\contentsline {section}{\numberline {9.3}Effetti fisiologici dell'auxina}{127}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}Teoria della crescita acida}{128}{subsection.9.3.1}
-\contentsline {subsection}{\numberline {9.3.2}Modello di Cholodny-Went}{128}{subsection.9.3.2}
-\contentsline {paragraph}{Fototropismo}{129}{section*.120}
-\contentsline {paragraph}{Gravitropismo}{129}{section*.122}
-\contentsline {paragraph}{}{129}{section*.123}
-\contentsline {subsection}{\numberline {9.3.3}Effetti dell'auxina sullo sviluppo}{130}{subsection.9.3.3}
-\contentsline {paragraph}{Dominanza apicale}{132}{section*.126}
-\contentsline {paragraph}{}{132}{section*.127}
-\contentsline {chapter}{\numberline {10}Gibberelline}{133}{chapter.10}
-\contentsline {section}{\numberline {10.1}Trasduzione del segnale}{133}{section.10.1}
-\contentsline {paragraph}{GID}{134}{section*.129}
-\contentsline {subsection}{\numberline {10.1.1}Cereali}{134}{subsection.10.1.1}
-\contentsline {section}{\numberline {10.2}Effetti fisiologici}{135}{section.10.2}
-\contentsline {subsection}{\numberline {10.2.1}Effetti sull'allungamento del fusto}{135}{subsection.10.2.1}
-\contentsline {subsection}{\numberline {10.2.2}Effetti sul passaggio dalla fase giovanile a quella adulta}{136}{subsection.10.2.2}
-\contentsline {subsection}{\numberline {10.2.3}Effetti sulla maturazione del frutto}{136}{subsection.10.2.3}
-\contentsline {subsection}{\numberline {10.2.4}Germinazione dell'orzo}{136}{subsection.10.2.4}
-\contentsline {chapter}{\numberline {11}Citochinine}{137}{chapter.11}
-\contentsline {section}{\numberline {11.1}Struttura delle citochinine}{138}{section.11.1}
-\contentsline {section}{\numberline {11.2}Biosintesi delle citochinine}{138}{section.11.2}
-\contentsline {subsection}{\numberline {11.2.1}Biosintesi della trans-zeatina}{139}{subsection.11.2.1}
-\contentsline {subsection}{\numberline {11.2.2}Catabolismo}{140}{subsection.11.2.2}
-\contentsline {section}{\numberline {11.3}Trasporto delle citochinine nella pianta}{140}{section.11.3}
-\contentsline {section}{\numberline {11.4}Trasduzione del segnale}{141}{section.11.4}
-\contentsline {subsection}{\numberline {11.4.1}Fosforelay in Arabidopsis}{142}{subsection.11.4.1}
-\contentsline {section}{\numberline {11.5}Funzioni}{143}{section.11.5}
-\contentsline {chapter}{\numberline {12}Etilene: effetti sullo sviluppo e sulla fisiologia delle piante}{145}{chapter.12}
-\contentsline {paragraph}{Epinastia fogliare}{146}{section*.136}
-\contentsline {section}{\numberline {12.1}Senescenza fogliare}{147}{section.12.1}
-\contentsline {section}{\numberline {12.2}Difesa}{147}{section.12.2}
-\contentsline {chapter}{\numberline {13}Acido Abscissico}{149}{chapter.13}
-\contentsline {section}{\numberline {13.1}Catabolismo}{149}{section.13.1}
-\contentsline {section}{\numberline {13.2}Movimenti di ABA nella pianta}{149}{section.13.2}
-\contentsline {chapter}{\numberline {14}Fisiologia dello stress}{151}{chapter.14}
-\contentsline {section}{\numberline {14.1}Meccanismi di resistenza allo stress}{152}{section.14.1}
-\contentsline {paragraph}{Fuga dallo stress}{152}{section*.138}
-\contentsline {paragraph}{}{152}{section*.139}
-\contentsline {paragraph}{Adattamento}{152}{section*.140}
-\contentsline {paragraph}{Acclimatazione}{152}{section*.141}
-\contentsline {paragraph}{}{152}{section*.142}
-\contentsline {subsection}{\numberline {14.1.1}Bio-membrane}{152}{subsection.14.1.1}
-\contentsline {section}{\numberline {14.2}Stress da carenza idrica}{153}{section.14.2}
-\contentsline {subsubsection}{Aggiustamento osmotico}{154}{section*.144}
-\contentsline {paragraph}{Sensible heat loss}{155}{section*.146}
-\contentsline {subsubsection}{Proteine LEA}{156}{section*.148}
-\contentsline {paragraph}{}{156}{figure.caption.150}
-\contentsline {section}{\numberline {14.3}Stress salino}{156}{section.14.3}
-\contentsline {paragraph}{Esperimento}{157}{section*.151}
-\contentsline {section}{\numberline {14.4}Stress da calore}{159}{section.14.4}
-\contentsline {subsection}{\numberline {14.4.1}Piante a metabolismo diverso}{159}{subsection.14.4.1}
-\contentsline {section}{\numberline {14.5}Heat shock proteins}{161}{section.14.5}
-\contentsline {section}{\numberline {14.6}Chilling e freezing}{161}{section.14.6}
-\contentsline {paragraph}{}{162}{section*.152}
-\contentsline {chapter}{\numberline {15}Stress da metalli pesanti}{165}{chapter.15}
-\contentsline {section}{\numberline {15.1}Stress ossidativo}{167}{section.15.1}
-\contentsline {chapter}{\numberline {16}Ecofisiologia della fotosintesi}{169}{chapter.16}
-\contentsline {section}{\numberline {16.1}Fotosintesi: fisiologia ed ecofisiologia}{172}{section.16.1}
-\contentsline {section}{\numberline {16.2}Acclimatazione}{174}{section.16.2}
+\contentsline {subsection}{\numberline {8.3.2}Apoplastico}{121}{subsection.8.3.2}
+\contentsline {chapter}{\numberline {9}Ormoni vegetali}{123}{chapter.9}
+\contentsline {section}{\numberline {9.1}Auxina}{123}{section.9.1}
+\contentsline {subsection}{\numberline {9.1.1}Biosintesi dell'auxina}{124}{subsection.9.1.1}
+\contentsline {subsection}{\numberline {9.1.2}Localizzazione dell'auxina}{125}{subsection.9.1.2}
+\contentsline {paragraph}{Catabolismo ossidativo dell'auxina}{126}{section*.114}
+\contentsline {subsection}{\numberline {9.1.3}Trasporto di auxina}{126}{subsection.9.1.3}
+\contentsline {paragraph}{Modello di diffusione chemiosmotica}{126}{section*.115}
+\contentsline {section}{\numberline {9.2}Vie di trasduzione dell'auxina : percezione e signaling}{128}{section.9.2}
+\contentsline {paragraph}{ABP1}{128}{section*.117}
+\contentsline {section}{\numberline {9.3}Effetti fisiologici dell'auxina}{129}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}Teoria della crescita acida}{130}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.2}Modello di Cholodny-Went}{130}{subsection.9.3.2}
+\contentsline {paragraph}{Fototropismo}{131}{section*.120}
+\contentsline {paragraph}{Gravitropismo}{131}{section*.122}
+\contentsline {paragraph}{}{131}{section*.123}
+\contentsline {subsection}{\numberline {9.3.3}Effetti dell'auxina sullo sviluppo}{132}{subsection.9.3.3}
+\contentsline {paragraph}{Dominanza apicale}{134}{section*.126}
+\contentsline {paragraph}{}{134}{section*.127}
+\contentsline {chapter}{\numberline {10}Gibberelline}{135}{chapter.10}
+\contentsline {section}{\numberline {10.1}Trasduzione del segnale}{135}{section.10.1}
+\contentsline {paragraph}{GID}{136}{section*.129}
+\contentsline {subsection}{\numberline {10.1.1}Cereali}{136}{subsection.10.1.1}
+\contentsline {section}{\numberline {10.2}Effetti fisiologici}{137}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Effetti sull'allungamento del fusto}{137}{subsection.10.2.1}
+\contentsline {subsection}{\numberline {10.2.2}Effetti sul passaggio dalla fase giovanile a quella adulta}{138}{subsection.10.2.2}
+\contentsline {subsection}{\numberline {10.2.3}Effetti sulla maturazione del frutto}{138}{subsection.10.2.3}
+\contentsline {subsection}{\numberline {10.2.4}Germinazione dell'orzo}{138}{subsection.10.2.4}
+\contentsline {chapter}{\numberline {11}Citochinine}{139}{chapter.11}
+\contentsline {section}{\numberline {11.1}Struttura delle citochinine}{140}{section.11.1}
+\contentsline {section}{\numberline {11.2}Biosintesi delle citochinine}{140}{section.11.2}
+\contentsline {subsection}{\numberline {11.2.1}Biosintesi della trans-zeatina}{141}{subsection.11.2.1}
+\contentsline {subsection}{\numberline {11.2.2}Catabolismo}{142}{subsection.11.2.2}
+\contentsline {section}{\numberline {11.3}Trasporto delle citochinine nella pianta}{142}{section.11.3}
+\contentsline {section}{\numberline {11.4}Trasduzione del segnale}{143}{section.11.4}
+\contentsline {subsection}{\numberline {11.4.1}Fosforelay in Arabidopsis}{144}{subsection.11.4.1}
+\contentsline {section}{\numberline {11.5}Funzioni}{145}{section.11.5}
+\contentsline {chapter}{\numberline {12}Etilene: effetti sullo sviluppo e sulla fisiologia delle piante}{147}{chapter.12}
+\contentsline {paragraph}{Epinastia fogliare}{148}{section*.136}
+\contentsline {section}{\numberline {12.1}Senescenza fogliare}{149}{section.12.1}
+\contentsline {section}{\numberline {12.2}Difesa}{149}{section.12.2}
+\contentsline {chapter}{\numberline {13}Acido Abscissico}{151}{chapter.13}
+\contentsline {section}{\numberline {13.1}Catabolismo}{151}{section.13.1}
+\contentsline {section}{\numberline {13.2}Movimenti di ABA nella pianta}{151}{section.13.2}
+\contentsline {chapter}{\numberline {14}Fisiologia dello stress}{153}{chapter.14}
+\contentsline {section}{\numberline {14.1}Meccanismi di resistenza allo stress}{154}{section.14.1}
+\contentsline {paragraph}{Fuga dallo stress}{154}{section*.138}
+\contentsline {paragraph}{}{154}{section*.139}
+\contentsline {paragraph}{Adattamento}{154}{section*.140}
+\contentsline {paragraph}{Acclimatazione}{154}{section*.141}
+\contentsline {paragraph}{}{154}{section*.142}
+\contentsline {subsection}{\numberline {14.1.1}Bio-membrane}{154}{subsection.14.1.1}
+\contentsline {section}{\numberline {14.2}Stress da carenza idrica}{155}{section.14.2}
+\contentsline {subsubsection}{Aggiustamento osmotico}{156}{section*.144}
+\contentsline {paragraph}{Sensible heat loss}{157}{section*.146}
+\contentsline {subsubsection}{Proteine LEA}{158}{section*.148}
+\contentsline {paragraph}{}{158}{figure.caption.150}
+\contentsline {section}{\numberline {14.3}Stress salino}{158}{section.14.3}
+\contentsline {paragraph}{Esperimento}{159}{section*.151}
+\contentsline {section}{\numberline {14.4}Stress da calore}{161}{section.14.4}
+\contentsline {subsection}{\numberline {14.4.1}Piante a metabolismo diverso}{161}{subsection.14.4.1}
+\contentsline {section}{\numberline {14.5}Heat shock proteins}{163}{section.14.5}
+\contentsline {section}{\numberline {14.6}Chilling e freezing}{163}{section.14.6}
+\contentsline {paragraph}{}{164}{section*.152}
+\contentsline {section}{\numberline {14.7}Stress da metalli pesanti}{166}{section.14.7}
+\contentsline {section}{\numberline {14.8}Stress ossidativo}{169}{section.14.8}
+\contentsline {chapter}{\numberline {15}Ecofisiologia della fotosintesi}{171}{chapter.15}
+\contentsline {section}{\numberline {15.1}Fotosintesi: fisiologia ed ecofisiologia}{174}{section.15.1}
+\contentsline {section}{\numberline {15.2}Acclimatazione}{176}{section.15.2}
+\contentsline {subsection}{\numberline {15.2.1}Meccanismi biochimici}{180}{subsection.15.2.1}

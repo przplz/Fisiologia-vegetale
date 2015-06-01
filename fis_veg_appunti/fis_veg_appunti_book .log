@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.23)  24 MAY 2015 11:10
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2014.10.23)  1 JUN 2015 16:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1470,7 +1470,7 @@ Overfull \hbox (0.21985pt too wide) in paragraph at lines 103--104
 de-ter-mi-na l'\T1/cmr/m/it/12 adesione 
  []
 
-[11] [12] [13] <immagini/hofler.jpg, id=935, 583.17876pt x 399.4925pt>
+[11] [12] [13] <immagini/hofler.jpg, id=940, 583.17876pt x 399.4925pt>
 File: immagini/hofler.jpg Graphic file (type jpg)
 
 <use immagini/hofler.jpg>
@@ -1503,7 +1503,7 @@ Overfull \hbox (51.44463pt too wide) has occurred while \output is active
 NTA E ATMOSFERA
  []
 
-[20] <immagini/radice.jpg, id=977, 668.4975pt x 454.69875pt>
+[20] <immagini/radice.jpg, id=982, 668.4975pt x 454.69875pt>
 File: immagini/radice.jpg Graphic file (type jpg)
 
 <use immagini/radice.jpg>
@@ -1533,7 +1533,7 @@ Overfull \hbox (51.44463pt too wide) has occurred while \output is active
 NTA E ATMOSFERA
  []
 
-[26] <immagini/velocita.jpg, id=1018, 629.35126pt x 285.065pt>
+[26] <immagini/velocita.jpg, id=1023, 629.35126pt x 285.065pt>
 File: immagini/velocita.jpg Graphic file (type jpg)
 
 <use immagini/velocita.jpg>
@@ -1546,7 +1546,7 @@ NTA E ATMOSFERA
  []
 
 [28 <./immagini/velocita.jpg>]
-<immagini/stomi.jpg, id=1029, 785.93625pt x 468.75125pt>
+<immagini/stomi.jpg, id=1034, 785.93625pt x 468.75125pt>
 File: immagini/stomi.jpg Graphic file (type jpg)
 
 <use immagini/stomi.jpg>
@@ -1570,7 +1570,7 @@ NTA E ATMOSFERA
  []
 
 [30 <./immagini/stomi.jpg>]
-<immagini/chiusura.jpg, id=1042, 691.58376pt x 473.77pt>
+<immagini/chiusura.jpg, id=1047, 691.58376pt x 473.77pt>
 File: immagini/chiusura.jpg Graphic file (type jpg)
 
 <use immagini/chiusura.jpg>
@@ -1589,7 +1589,7 @@ Overfull \hbox (51.44463pt too wide) has occurred while \output is active
 NTA E ATMOSFERA
  []
 
-[32] <immagini/zea.jpg, id=1054, 687.56876pt x 446.66875pt>
+[32] <immagini/zea.jpg, id=1059, 687.56876pt x 446.66875pt>
 File: immagini/zea.jpg Graphic file (type jpg)
 
 <use immagini/zea.jpg>
@@ -1603,7 +1603,7 @@ NTA E ATMOSFERA
 
 [34]
 Capitolo 3.
-<immagini/hoagland.jpg, id=1065, 478.78876pt x 414.54875pt>
+<immagini/hoagland.jpg, id=1070, 478.78876pt x 414.54875pt>
 File: immagini/hoagland.jpg Graphic file (type jpg)
 
 <use immagini/hoagland.jpg>
@@ -1612,21 +1612,21 @@ Package pdftex.def Info: immagini/hoagland.jpg used on input line 587.
  [35
 
  <./immagini/hoagland.jpg>]
-<immagini/idroponica.jpg, id=1071, 656.4525pt x 340.27126pt>
+<immagini/idroponica.jpg, id=1076, 656.4525pt x 340.27126pt>
 File: immagini/idroponica.jpg Graphic file (type jpg)
 
 <use immagini/idroponica.jpg>
 Package pdftex.def Info: immagini/idroponica.jpg used on input line 604.
 (pdftex.def)             Requested size: 262.57634pt x 136.10608pt.
 
-<immagini/pellicola.jpg, id=1072, 681.54625pt x 349.305pt>
+<immagini/pellicola.jpg, id=1077, 681.54625pt x 349.305pt>
 File: immagini/pellicola.jpg Graphic file (type jpg)
 
 <use immagini/pellicola.jpg>
 Package pdftex.def Info: immagini/pellicola.jpg used on input line 614.
 (pdftex.def)             Requested size: 272.61366pt x 139.71951pt.
  [36 <./immagini/idroponica.jpg>]
-<immagini/aeroponica.jpg, id=1078, 668.4975pt x 364.36125pt>
+<immagini/aeroponica.jpg, id=1083, 668.4975pt x 364.36125pt>
 File: immagini/aeroponica.jpg Graphic file (type jpg)
 
 <use immagini/aeroponica.jpg>
@@ -1638,49 +1638,49 @@ Overfull \hbox (18.80276pt too wide) in paragraph at lines 670--671
 ne es-sic-ca-to (a 90/100\TS1/cmr/m/n/12 ‰\T1/cmr/m/n/12 ),
  []
 
-[38] <immagini/carenza.jpg, id=1093, 651.43375pt x 418.56375pt>
+[38] <immagini/carenza.jpg, id=1098, 651.43375pt x 418.56375pt>
 File: immagini/carenza.jpg Graphic file (type jpg)
 
 <use immagini/carenza.jpg>
 Package pdftex.def Info: immagini/carenza.jpg used on input line 691.
 (pdftex.def)             Requested size: 195.43163pt x 125.57008pt.
  [39] [40 <./immagini/carenza.jpg>] [41] [42]
-[43] [44] <immagini/trasporto.jpg, id=1125, 510.90875pt x 466.74374pt>
+[43] [44] <immagini/trasporto.jpg, id=1130, 510.90875pt x 466.74374pt>
 File: immagini/trasporto.jpg Graphic file (type jpg)
 
 <use immagini/trasporto.jpg>
 Package pdftex.def Info: immagini/trasporto.jpg used on input line 793.
 (pdftex.def)             Requested size: 204.35988pt x 186.69418pt.
  [45 <./immagini/trasporto.jpg>]
-<immagini/strategie.jpg, id=1131, 654.445pt x 367.3725pt>
+<immagini/strategie.jpg, id=1136, 654.445pt x 367.3725pt>
 File: immagini/strategie.jpg Graphic file (type jpg)
 
 <use immagini/strategie.jpg>
 Package pdftex.def Info: immagini/strategie.jpg used on input line 819.
 (pdftex.def)             Requested size: 261.77336pt x 146.94638pt.
  [46 <./immagini/strategie.jpg>]
-<immagini/fittone.jpg, id=1139, 262.9825pt x 441.65pt>
+<immagini/fittone.jpg, id=1144, 262.9825pt x 441.65pt>
 File: immagini/fittone.jpg Graphic file (type jpg)
 
 <use immagini/fittone.jpg>
 Package pdftex.def Info: immagini/fittone.jpg used on input line 845.
 (pdftex.def)             Requested size: 105.19113pt x 176.65686pt.
  [47 <./immagini/fittone.jpg>] [48] [49]
-<immagini/ciclo.jpg, id=1158, 940.51375pt x 520.94624pt>
+<immagini/ciclo.jpg, id=1163, 940.51375pt x 520.94624pt>
 File: immagini/ciclo.jpg Graphic file (type jpg)
 
 <use immagini/ciclo.jpg>
 Package pdftex.def Info: immagini/ciclo.jpg used on input line 921.
 (pdftex.def)             Requested size: 376.19884pt x 208.3748pt.
  [50 <./immagini/ciclo.jpg>]
-<immagini/azoto.jpg, id=1167, 319.1925pt x 391.4625pt>
+<immagini/azoto.jpg, id=1172, 319.1925pt x 391.4625pt>
 File: immagini/azoto.jpg Graphic file (type jpg)
 
 <use immagini/azoto.jpg>
 Package pdftex.def Info: immagini/azoto.jpg used on input line 934.
 (pdftex.def)             Requested size: 111.71904pt x 137.01392pt.
  [51 <./immagini/azoto.jpg>]
-<immagini/nitrato.jpg, id=1173, 959.585pt x 440.64626pt>
+<immagini/nitrato.jpg, id=1178, 959.585pt x 440.64626pt>
 File: immagini/nitrato.jpg Graphic file (type jpg)
 
 <use immagini/nitrato.jpg>
@@ -1690,7 +1690,7 @@ Package pdftex.def Info: immagini/nitrato.jpg used on input line 966.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [52]
-<immagini/trasporto1.jpg, id=1181, 800.9925pt x 494.84875pt>
+<immagini/trasporto1.jpg, id=1186, 800.9925pt x 494.84875pt>
 File: immagini/trasporto1.jpg Graphic file (type jpg)
 
 <use immagini/trasporto1.jpg>
@@ -1700,7 +1700,7 @@ Package pdftex.def Info: immagini/trasporto1.jpg used on input line 978.
 Underfull \vbox (badness 6032) has occurred while \output is active []
 
  [53 <./immagini/nitrato.jpg>] [54 <./immagini/trasporto1.jpg>]
-<immagini/nitrato_reduttasi.jpg, id=1197, 582.175pt x 158.5925pt>
+<immagini/nitrato_reduttasi.jpg, id=1202, 582.175pt x 158.5925pt>
 File: immagini/nitrato_reduttasi.jpg Graphic file (type jpg)
 
 <use immagini/nitrato_reduttasi.jpg>
@@ -1708,7 +1708,7 @@ Package pdftex.def Info: immagini/nitrato_reduttasi.jpg used on input line 1015
 .
 (pdftex.def)             Requested size: 250.33037pt x 68.19344pt.
  [55 <./immagini/nitrato_reduttasi.jpg>]
-<immagini/nitrito_reduttasi.jpg, id=1206, 569.12625pt x 187.70125pt>
+<immagini/nitrito_reduttasi.jpg, id=1211, 569.12625pt x 187.70125pt>
 File: immagini/nitrito_reduttasi.jpg Graphic file (type jpg)
 
 <use immagini/nitrito_reduttasi.jpg>
@@ -1716,7 +1716,7 @@ Package pdftex.def Info: immagini/nitrito_reduttasi.jpg used on input line 1029
 .
 (pdftex.def)             Requested size: 301.63547pt x 99.48119pt.
 
-<immagini/regolazione.jpg, id=1207, 589.20125pt x 489.83pt>
+<immagini/regolazione.jpg, id=1212, 589.20125pt x 489.83pt>
 File: immagini/regolazione.jpg Graphic file (type jpg)
 
 <use immagini/regolazione.jpg>
@@ -1731,7 +1731,7 @@ Overfull \hbox (3.7474pt too wide) in paragraph at lines 1065--1066
  am-mo-nio $[][]\OMS/cmsy/m/n/12 !$\T1/cmr/m/n/12 enzima
  []
 
-<immagini/ciclo1.jpg, id=1219, 581.17125pt x 405.515pt>
+<immagini/ciclo1.jpg, id=1224, 581.17125pt x 405.515pt>
 File: immagini/ciclo1.jpg Graphic file (type jpg)
 
 <use immagini/ciclo1.jpg>
@@ -1743,7 +1743,7 @@ Overfull \hbox (13.20638pt too wide) in paragraph at lines 1115--1116
 to-mi di fer-ro e con-tie-ne un cen-tro Fe-molibdeno
  []
 
-[60] <immagini/eterocisti.jpg, id=1236, 859.21pt x 448.67625pt>
+[60] <immagini/eterocisti.jpg, id=1241, 859.21pt x 448.67625pt>
 File: immagini/eterocisti.jpg Graphic file (type jpg)
 
 <use immagini/eterocisti.jpg>
@@ -1753,7 +1753,7 @@ Package pdftex.def Info: immagini/eterocisti.jpg used on input line 1125.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [62]
-<immagini/leguminose.jpg, id=1248, 836.12375pt x 485.815pt>
+<immagini/leguminose.jpg, id=1253, 836.12375pt x 485.815pt>
 File: immagini/leguminose.jpg Graphic file (type jpg)
 
 <use immagini/leguminose.jpg>
@@ -1795,7 +1795,7 @@ Overfull \hbox (2.76196pt too wide) in paragraph at lines 1217--1218
 n-te/batteri/alghe/cambia. 
  []
 
-<immagini/cloroplasto.jpg, id=1267, 593.21625pt x 337.26pt>
+<immagini/cloroplasto.jpg, id=1272, 593.21625pt x 337.26pt>
 File: immagini/cloroplasto.jpg Graphic file (type jpg)
 
 <use immagini/cloroplasto.jpg>
@@ -1808,7 +1808,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 [68 <./immagini/cloroplasto.jpg>] [69] [70] [71] [72]
-<immagini/antenna.jpg, id=1305, 475.7775pt x 403.5075pt>
+<immagini/antenna.jpg, id=1311, 475.7775pt x 403.5075pt>
 File: immagini/antenna.jpg Graphic file (type jpg)
 
 <use immagini/antenna.jpg>
@@ -1852,20 +1852,20 @@ LaTeX Info: Redefining \bond on input line 1435.
 LaTeX Info: Redefining \dbond on input line 1435.
 LaTeX Info: Redefining \tbond on input line 1435.
  [76]
-<immagini/chinone.jpg, id=1332, 667.49374pt x 438.63875pt>
+<immagini/chinone.jpg, id=1337, 667.49374pt x 438.63875pt>
 File: immagini/chinone.jpg Graphic file (type jpg)
 
 <use immagini/chinone.jpg>
 Package pdftex.def Info: immagini/chinone.jpg used on input line 1474.
 (pdftex.def)             Requested size: 233.62631pt x 153.52585pt.
  [77] [78 <./immagini/chinone.jpg>]
-<immagini/PSI.jpg, id=1344, 859.21pt x 457.71pt>
+<immagini/PSI.jpg, id=1349, 859.21pt x 457.71pt>
 File: immagini/PSI.jpg Graphic file (type jpg)
  <use immagini/PSI.jpg>
 Package pdftex.def Info: immagini/PSI.jpg used on input line 1494.
 (pdftex.def)             Requested size: 300.72801pt x 160.2009pt.
 
-<immagini/proteine.jpg, id=1345, 756.8275pt x 563.10374pt>
+<immagini/proteine.jpg, id=1350, 756.8275pt x 563.10374pt>
 File: immagini/proteine.jpg Graphic file (type jpg)
 
 <use immagini/proteine.jpg>
@@ -1875,7 +1875,7 @@ Package pdftex.def Info: immagini/proteine.jpg used on input line 1501.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [79 <./immagini/PSI.jpg>] [80 <./immagini/proteine.jpg>] [81]
-<immagini/ciclico.jpg, id=1364, 511.9125pt x 446.66875pt>
+<immagini/ciclico.jpg, id=1369, 511.9125pt x 446.66875pt>
 File: immagini/ciclico.jpg Graphic file (type jpg)
 
 <use immagini/ciclico.jpg>
@@ -1888,14 +1888,14 @@ e l'e-let-tro-ne al NADP+
  []
 
 [82 <./immagini/ciclico.jpg>]
-<immagini/chemiosmosi.jpg, id=1371, 679.53876pt x 310.15875pt>
+<immagini/chemiosmosi.jpg, id=1376, 679.53876pt x 310.15875pt>
 File: immagini/chemiosmosi.jpg Graphic file (type jpg)
 
 <use immagini/chemiosmosi.jpg>
 Package pdftex.def Info: immagini/chemiosmosi.jpg used on input line 1582.
 (pdftex.def)             Requested size: 271.81068pt x 124.0613pt.
  [83 <./immagini/chemiosmosi.jpg>] [84]
-<immagini/erbicidi.jpg, id=1387, 609.27625pt x 406.51875pt>
+<immagini/erbicidi.jpg, id=1392, 609.27625pt x 406.51875pt>
 File: immagini/erbicidi.jpg Graphic file (type jpg)
 
 <use immagini/erbicidi.jpg>
@@ -1905,7 +1905,7 @@ Package pdftex.def Info: immagini/erbicidi.jpg used on input line 1643.
 
 ]
 Capitolo 5.
-<immagini/calvin.jpg, id=1398, 670.505pt x 526.96875pt>
+<immagini/calvin.jpg, id=1403, 670.505pt x 526.96875pt>
 File: immagini/calvin.jpg Graphic file (type jpg)
 
 <use immagini/calvin.jpg>
@@ -1915,7 +1915,7 @@ Package pdftex.def Info: immagini/calvin.jpg used on input line 1666.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [87]
-<immagini/carbossilazione.jpg, id=1406, 812.03375pt x 403.5075pt>
+<immagini/carbossilazione.jpg, id=1411, 812.03375pt x 403.5075pt>
 File: immagini/carbossilazione.jpg Graphic file (type jpg)
 
 <use immagini/carbossilazione.jpg>
@@ -1930,47 +1930,47 @@ Overfull \hbox (29.14433pt too wide) in paragraph at lines 1715--1716
 ceraldeide-3-fosfato-deidrogenasi[][][] 
  []
 
-<immagini/riduzione.jpg, id=1421, 775.89874pt x 240.9pt>
+<immagini/riduzione.jpg, id=1426, 775.89874pt x 240.9pt>
 File: immagini/riduzione.jpg Graphic file (type jpg)
 
 <use immagini/riduzione.jpg>
 Package pdftex.def Info: immagini/riduzione.jpg used on input line 1719.
 (pdftex.def)             Requested size: 310.354pt x 96.35828pt.
 
-<immagini/rigenerazione.jpg, id=1423, 560.0925pt x 488.82625pt>
+<immagini/rigenerazione.jpg, id=1428, 560.0925pt x 488.82625pt>
 File: immagini/rigenerazione.jpg Graphic file (type jpg)
 
 <use immagini/rigenerazione.jpg>
 Package pdftex.def Info: immagini/rigenerazione.jpg used on input line 1727.
 (pdftex.def)             Requested size: 224.03302pt x 195.52702pt.
  [90 <./immagini/riduzione.jpg>] [91 <./immagini/rigenerazione.jpg>] [92]
-<immagini/reg.jpg, id=1449, 548.0475pt x 406.51875pt>
+<immagini/reg.jpg, id=1454, 548.0475pt x 406.51875pt>
 File: immagini/reg.jpg Graphic file (type jpg)
  <use immagini/reg.jpg>
 Package pdftex.def Info: immagini/reg.jpg used on input line 1770.
 (pdftex.def)             Requested size: 219.2151pt x 162.60461pt.
 
-<immagini/reg1.jpg, id=1450, 549.05125pt x 290.08376pt>
+<immagini/reg1.jpg, id=1455, 549.05125pt x 290.08376pt>
 File: immagini/reg1.jpg Graphic file (type jpg)
 
 <use immagini/reg1.jpg>
 Package pdftex.def Info: immagini/reg1.jpg used on input line 1783.
 (pdftex.def)             Requested size: 219.61661pt x 116.03143pt.
  [93 <./immagini/reg.jpg>]
-<immagini/reg2.jpg, id=1456, 483.8075pt x 437.635pt>
+<immagini/reg2.jpg, id=1461, 483.8075pt x 437.635pt>
 File: immagini/reg2.jpg Graphic file (type jpg)
  <use immagini/reg2.jpg>
 Package pdftex.def Info: immagini/reg2.jpg used on input line 1797.
 (pdftex.def)             Requested size: 193.51956pt x 175.05089pt.
 
-<immagini/reg4.jpg, id=1457, 632.3625pt x 499.8675pt>
+<immagini/reg4.jpg, id=1462, 632.3625pt x 499.8675pt>
 File: immagini/reg4.jpg Graphic file (type jpg)
  <use immagini/reg4.jpg>
 Package pdftex.def Info: immagini/reg4.jpg used on input line 1805.
 (pdftex.def)             Requested size: 252.94052pt x 199.94345pt.
 
 [94 <./immagini/reg1.jpg> <./immagini/reg2.jpg>] [95 <./immagini/reg4.jpg>]
-<immagini/c2.jpg, id=1471, 758.835pt x 533.995pt>
+<immagini/c2.jpg, id=1476, 758.835pt x 533.995pt>
 File: immagini/c2.jpg Graphic file (type jpg)
  <use immagini/c2.jpg>
 Package pdftex.def Info: immagini/c2.jpg used on input line 1825.
@@ -1985,14 +1985,14 @@ Overfull \hbox (25.50125pt too wide) in paragraph at lines 1896--1896
 m/n/12 favorita
  []
 
-[99] [100] <immagini/saccarosio.jpg, id=1507, 393.47pt x 160.6pt>
+[99] [100] <immagini/saccarosio.jpg, id=1512, 393.47pt x 160.6pt>
 File: immagini/saccarosio.jpg Graphic file (type jpg)
 
 <use immagini/saccarosio.jpg>
 Package pdftex.def Info: immagini/saccarosio.jpg used on input line 1934.
 (pdftex.def)             Requested size: 157.38521pt x 64.23885pt.
 
-<immagini/saccarosio1.jpg, id=1508, 686.565pt x 439.6425pt>
+<immagini/saccarosio1.jpg, id=1513, 686.565pt x 439.6425pt>
 File: immagini/saccarosio1.jpg Graphic file (type jpg)
 
 <use immagini/saccarosio1.jpg>
@@ -2032,21 +2032,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Capitolo 7.
-<immagini/C4.jpg, id=1549, 808.01875pt x 432.61626pt>
+<immagini/C4.jpg, id=1554, 808.01875pt x 432.61626pt>
 File: immagini/C4.jpg Graphic file (type jpg)
  <use immagini/C4.jpg>
 Package pdftex.def Info: immagini/C4.jpg used on input line 2034.
 (pdftex.def)             Requested size: 323.20177pt x 173.04343pt.
 
 [109 <./immagini/C4.jpg>]
-<immagini/metabolismo.jpg, id=1556, 367.3725pt x 503.8825pt>
+<immagini/metabolismo.jpg, id=1561, 367.3725pt x 503.8825pt>
 File: immagini/metabolismo.jpg Graphic file (type jpg)
 
 <use immagini/metabolismo.jpg>
 Package pdftex.def Info: immagini/metabolismo.jpg used on input line 2057.
 (pdftex.def)             Requested size: 146.94638pt x 201.54942pt.
  [110 <./immagini/metabolismo.jpg>]
-<immagini/malico.jpg, id=1565, 786.94pt x 532.99126pt>
+<immagini/malico.jpg, id=1570, 786.94pt x 532.99126pt>
 File: immagini/malico.jpg Graphic file (type jpg)
 
 <use immagini/malico.jpg>
@@ -2069,274 +2069,284 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ]
 Capitolo 8.
-[117] [118] [119] [120]
+[117] [118] [119] [120] [121] [122
+
+]
 Capitolo 9.
-<immagini/coleottile.jpg, id=1627, 788.9475pt x 444.66125pt>
+<immagini/coleottile.jpg, id=1647, 788.9475pt x 444.66125pt>
 File: immagini/coleottile.jpg Graphic file (type jpg)
 
 <use immagini/coleottile.jpg>
-Package pdftex.def Info: immagini/coleottile.jpg used on input line 2235.
+Package pdftex.def Info: immagini/coleottile.jpg used on input line 2247.
 (pdftex.def)             Requested size: 315.5734pt x 177.86134pt.
- [121
-
-]
-<immagini/biosintesi.jpg, id=1635, 737.75626pt x 520.94624pt>
+ [123]
+<immagini/biosintesi.jpg, id=1654, 737.75626pt x 520.94624pt>
 File: immagini/biosintesi.jpg Graphic file (type jpg)
 
 <use immagini/biosintesi.jpg>
-Package pdftex.def Info: immagini/biosintesi.jpg used on input line 2248.
+Package pdftex.def Info: immagini/biosintesi.jpg used on input line 2260.
 (pdftex.def)             Requested size: 295.09727pt x 208.3748pt.
 
 Underfull \vbox (badness 5652) has occurred while \output is active []
 
- [122 <./immagini/coleottile.jpg>] [123 <./immagini/biosintesi.jpg>]
-<immagini/chemio.jpg, id=1650, 448.67625pt x 478.78876pt>
+ [124 <./immagini/coleottile.jpg>] [125 <./immagini/biosintesi.jpg>]
+<immagini/chemio.jpg, id=1668, 448.67625pt x 478.78876pt>
 File: immagini/chemio.jpg Graphic file (type jpg)
 
 <use immagini/chemio.jpg>
-Package pdftex.def Info: immagini/chemio.jpg used on input line 2284.
+Package pdftex.def Info: immagini/chemio.jpg used on input line 2296.
 (pdftex.def)             Requested size: 179.46732pt x 191.5121pt.
- [124] [125 <./immagini/chemio.jpg>]
-<immagini/aux.jpg, id=1667, 688.5725pt x 454.69875pt>
+ [126] [127 <./immagini/chemio.jpg>]
+<immagini/aux.jpg, id=1686, 688.5725pt x 454.69875pt>
 File: immagini/aux.jpg Graphic file (type jpg)
  <use immagini/aux.jpg>
-Package pdftex.def Info: immagini/aux.jpg used on input line 2312.
+Package pdftex.def Info: immagini/aux.jpg used on input line 2324.
 (pdftex.def)             Requested size: 275.4241pt x 181.87627pt.
 
 Underfull \vbox (badness 1502) has occurred while \output is active []
 
- [126 <./immagini/aux.jpg>] [127]
-<immagini/fototropina.jpg, id=1680, 605.26125pt x 445.665pt>
+ [128 <./immagini/aux.jpg>] [129]
+<immagini/fototropina.jpg, id=1698, 605.26125pt x 445.665pt>
 File: immagini/fototropina.jpg Graphic file (type jpg)
 
 <use immagini/fototropina.jpg>
-Package pdftex.def Info: immagini/fototropina.jpg used on input line 2373.
+Package pdftex.def Info: immagini/fototropina.jpg used on input line 2385.
 (pdftex.def)             Requested size: 242.1002pt x 178.26283pt.
- [128] [129 <./immagini/fototropina.jpg>]
-<immagini/morfo.jpg, id=1695, 637.38126pt x 356.33125pt>
+ [130] [131 <./immagini/fototropina.jpg>]
+<immagini/morfo.jpg, id=1713, 637.38126pt x 356.33125pt>
 File: immagini/morfo.jpg Graphic file (type jpg)
 
 <use immagini/morfo.jpg>
-Package pdftex.def Info: immagini/morfo.jpg used on input line 2401.
+Package pdftex.def Info: immagini/morfo.jpg used on input line 2413.
 (pdftex.def)             Requested size: 254.94798pt x 142.52997pt.
 
-<immagini/morf.jpg, id=1696, 727.71875pt x 475.7775pt>
+<immagini/morf.jpg, id=1714, 727.71875pt x 475.7775pt>
 File: immagini/morf.jpg Graphic file (type jpg)
  <use immagini/morf.jpg>
-Package pdftex.def Info: immagini/morf.jpg used on input line 2416.
+Package pdftex.def Info: immagini/morf.jpg used on input line 2428.
 (pdftex.def)             Requested size: 291.08234pt x 190.30762pt.
 
-[130 <./immagini/morfo.jpg>]
+[132 <./immagini/morfo.jpg>]
 Underfull \vbox (badness 1460) has occurred while \output is active []
 
- [131 <./immagini/morf.jpg>] [132]
+ [133 <./immagini/morf.jpg>] [134]
 Capitolo 10.
-<immagini/gib.jpg, id=1713, 937.5025pt x 322.20375pt>
+<immagini/gib.jpg, id=1732, 937.5025pt x 322.20375pt>
 File: immagini/gib.jpg Graphic file (type jpg)
  <use immagini/gib.jpg>
-Package pdftex.def Info: immagini/gib.jpg used on input line 2447.
+Package pdftex.def Info: immagini/gib.jpg used on input line 2459.
 (pdftex.def)             Requested size: 374.99435pt x 128.87921pt.
 
-[133
+[135
 
  <./immagini/gib.jpg>]
-Overfull \hbox (16.3563pt too wide) in paragraph at lines 2460--2461
+Overfull \hbox (16.3563pt too wide) in paragraph at lines 2472--2473
  []\T1/cmr/bx/n/12 GID[] \T1/cmr/m/n/12 Re-cet-to-re so-lu-bi-le, nu-clea-re, c
 he pre-sen-ta al-l'e-stre-mi-tà ammino-terminale
  []
 
-[134] [135] [136]
+[136] [137] [138]
 Capitolo 11.
-<immagini/chinetina.jpg, id=1735, 415.5525pt x 336.25626pt>
+<immagini/chinetina.jpg, id=1753, 415.5525pt x 336.25626pt>
 File: immagini/chinetina.jpg Graphic file (type jpg)
 
 <use immagini/chinetina.jpg>
-Package pdftex.def Info: immagini/chinetina.jpg used on input line 2515.
+Package pdftex.def Info: immagini/chinetina.jpg used on input line 2527.
 (pdftex.def)             Requested size: 166.21805pt x 134.5001pt.
 
-<immagini/CK.jpg, id=1737, 772.8875pt x 365.365pt>
+<immagini/CK.jpg, id=1755, 772.8875pt x 365.365pt>
 File: immagini/CK.jpg Graphic file (type jpg)
  <use immagini/CK.jpg>
-Package pdftex.def Info: immagini/CK.jpg used on input line 2526.
+Package pdftex.def Info: immagini/CK.jpg used on input line 2538.
 (pdftex.def)             Requested size: 270.51468pt x 127.87965pt.
 
 Underfull \vbox (badness 1708) has occurred while \output is active []
 
- [137
+ [139
 
  <./immagini/chinetina.jpg>]
-Overfull \hbox (0.82213pt too wide) in paragraph at lines 2534--2539
+Overfull \hbox (0.82213pt too wide) in paragraph at lines 2546--2551
 []\T1/cmr/m/n/12 Il ge-ne \T1/cmr/m/it/12 IPT \T1/cmr/m/n/12 del T-DNA co-di-fi
 -ca per l'en-zi-ma \T1/cmr/m/it/12 iso-pen-te-nil trans-fe-ra-si \T1/cmr/m/n/12
  (IPT).
  []
 
-[138 <./immagini/CK.jpg>]
-<immagini/biosintesi2.jpg, id=1749, 969.6225pt x 409.53pt>
+[140 <./immagini/CK.jpg>]
+<immagini/biosintesi2.jpg, id=1769, 969.6225pt x 409.53pt>
 File: immagini/biosintesi2.jpg Graphic file (type jpg)
 
 <use immagini/biosintesi2.jpg>
-Package pdftex.def Info: immagini/biosintesi2.jpg used on input line 2549.
+Package pdftex.def Info: immagini/biosintesi2.jpg used on input line 2561.
 (pdftex.def)             Requested size: 387.84213pt x 163.80908pt.
 
-<immagini/bio3.jpg, id=1750, 456.70625pt x 485.815pt>
+<immagini/bio3.jpg, id=1770, 456.70625pt x 485.815pt>
 File: immagini/bio3.jpg Graphic file (type jpg)
  <use immagini/bio3.jpg>
-Package pdftex.def Info: immagini/bio3.jpg used on input line 2556.
+Package pdftex.def Info: immagini/bio3.jpg used on input line 2568.
 (pdftex.def)             Requested size: 182.67926pt x 194.32256pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [139 <./immagini/biosintesi2.jpg>] [140 <./immagini/bio3.jpg>]
-<immagini/sensore.jpg, id=1764, 827.09pt x 323.2075pt>
+ [141 <./immagini/biosintesi2.jpg>] [142 <./immagini/bio3.jpg>]
+<immagini/sensore.jpg, id=1782, 827.09pt x 323.2075pt>
 File: immagini/sensore.jpg Graphic file (type jpg)
 
 <use immagini/sensore.jpg>
-Package pdftex.def Info: immagini/sensore.jpg used on input line 2584.
+Package pdftex.def Info: immagini/sensore.jpg used on input line 2596.
 (pdftex.def)             Requested size: 330.83012pt x 129.2807pt.
- [141 <./immagini/sensore.jpg>]
-Overfull \hbox (6.87943pt too wide) in paragraph at lines 2612--2613
+ [143 <./immagini/sensore.jpg>]
+Overfull \hbox (6.87943pt too wide) in paragraph at lines 2624--2625
 []\T1/cmr/m/n/12 Un \T1/cmr/bx/n/12 re-go-la-to-re di ti-po B \T1/cmr/m/n/12 ha
  il do-mi-nio ri-ce-ven-te al-l'e-stre-mi-tà N-terminale,
  []
 
-<immagini/ARR.jpg, id=1771, 841.1425pt x 532.99126pt>
+<immagini/ARR.jpg, id=1789, 841.1425pt x 532.99126pt>
 File: immagini/ARR.jpg Graphic file (type jpg)
  <use immagini/ARR.jpg>
-Package pdftex.def Info: immagini/ARR.jpg used on input line 2621.
+Package pdftex.def Info: immagini/ARR.jpg used on input line 2633.
 (pdftex.def)             Requested size: 336.45103pt x 213.19272pt.
 
-[142] [143 <./immagini/ARR.jpg>] [144
+[144] [145 <./immagini/ARR.jpg>] [146
 
 ]
 Capitolo 12.
-[145]
-Overfull \hbox (149.05728pt too wide) has occurred while \output is active
-\T1/cmr/m/n/12 146 \T1/cmr/m/sl/12 CAPITOLO 12.  ETILENE: EFFETTI SULLO SVILUPP
-O E SULLA FISIOLOGIA DELLE PIANTE
- []
-
-[146] [147]
+[147]
 Overfull \hbox (149.05728pt too wide) has occurred while \output is active
 \T1/cmr/m/n/12 148 \T1/cmr/m/sl/12 CAPITOLO 12.  ETILENE: EFFETTI SULLO SVILUPP
 O E SULLA FISIOLOGIA DELLE PIANTE
  []
 
-[148
+[148] [149]
+Overfull \hbox (149.05728pt too wide) has occurred while \output is active
+\T1/cmr/m/n/12 150 \T1/cmr/m/sl/12 CAPITOLO 12.  ETILENE: EFFETTI SULLO SVILUPP
+O E SULLA FISIOLOGIA DELLE PIANTE
+ []
+
+[150
 
 ]
 Capitolo 13.
-[149] [150]
+[151] [152]
 Capitolo 14.
-[151
+[153
 
-] [152] [153] <immagini/stress.jpg, id=1835, 582.175pt x 357.335pt>
+] [154] [155] <immagini/stress.jpg, id=1853, 582.175pt x 357.335pt>
 File: immagini/stress.jpg Graphic file (type jpg)
 
 <use immagini/stress.jpg>
-Package pdftex.def Info: immagini/stress.jpg used on input line 2781.
+Package pdftex.def Info: immagini/stress.jpg used on input line 2793.
 (pdftex.def)             Requested size: 232.86588pt x 142.93146pt.
 
-<immagini/aggiustamento.jpg, id=1837, 387.4475pt x 401.5pt>
+<immagini/aggiustamento.jpg, id=1855, 387.4475pt x 401.5pt>
 File: immagini/aggiustamento.jpg Graphic file (type jpg)
 
 <use immagini/aggiustamento.jpg>
-Package pdftex.def Info: immagini/aggiustamento.jpg used on input line 2789.
+Package pdftex.def Info: immagini/aggiustamento.jpg used on input line 2801.
 (pdftex.def)             Requested size: 154.97624pt x 160.59715pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [154 <./immagini/stress.jpg>] <immagini/heat.jpg, id=1846, 400.49625pt x 416.5
+ [156 <./immagini/stress.jpg>] <immagini/heat.jpg, id=1864, 400.49625pt x 416.5
 5624pt>
 File: immagini/heat.jpg Graphic file (type jpg)
 
 <use immagini/heat.jpg>
-Package pdftex.def Info: immagini/heat.jpg used on input line 2811.
+Package pdftex.def Info: immagini/heat.jpg used on input line 2823.
 (pdftex.def)             Requested size: 160.19566pt x 166.61954pt.
- [155 <./immagini/aggiustamento.jpg>]
-<immagini/EF.jpg, id=1854, 545.03625pt x 137.51375pt>
+ [157 <./immagini/aggiustamento.jpg>]
+<immagini/EF.jpg, id=1874, 545.03625pt x 137.51375pt>
 File: immagini/EF.jpg Graphic file (type jpg)
  <use immagini/EF.jpg>
-Package pdftex.def Info: immagini/EF.jpg used on input line 2830.
+Package pdftex.def Info: immagini/EF.jpg used on input line 2842.
 (pdftex.def)             Requested size: 218.01064pt x 55.00452pt.
 
-[156 <./immagini/heat.jpg> <./immagini/EF.jpg>] [157] [158] [159] [160]
-[161] [162] [163] [164]
+[158 <./immagini/heat.jpg> <./immagini/EF.jpg>] [159] [160] [161] [162]
+[163] [164] [165] [166] [167] [168] [169] [170
+
+]
 Capitolo 15.
-[165
-
-] [166] [167] [168]
-Capitolo 16.
-[169
-
-] <immagini/CO2.jpg, id=1928, 531.9875pt x 370.38374pt>
+[171] <immagini/CO2.jpg, id=1946, 531.9875pt x 370.38374pt>
 File: immagini/CO2.jpg Graphic file (type jpg)
 
 <use immagini/CO2.jpg>
-Package pdftex.def Info: immagini/CO2.jpg used on input line 3114.
+Package pdftex.def Info: immagini/CO2.jpg used on input line 3127.
 (pdftex.def)             Requested size: 212.79123pt x 148.15086pt.
 
-<immagini/mauna.jpg, id=1929, 637.38126pt x 466.74374pt>
+<immagini/mauna.jpg, id=1947, 637.38126pt x 466.74374pt>
 File: immagini/mauna.jpg Graphic file (type jpg)
 
 <use immagini/mauna.jpg>
-Package pdftex.def Info: immagini/mauna.jpg used on input line 3123.
+Package pdftex.def Info: immagini/mauna.jpg used on input line 3136.
 (pdftex.def)             Requested size: 254.94798pt x 186.69418pt.
- [170 <./immagini/CO2.jpg>] [171 <./immagini/mauna.jpg>] [172] [173] <immagini/
-acclimatazione.jpg, id=1953, 672.5125pt x 409.53pt>
+ [172 <./immagini/CO2.jpg>] [173 <./immagini/mauna.jpg>] [174] [175] <immagini/
+acclimatazione.jpg, id=1972, 672.5125pt x 409.53pt>
 File: immagini/acclimatazione.jpg Graphic file (type jpg)
 
 <use immagini/acclimatazione.jpg>
-Package pdftex.def Info: immagini/acclimatazione.jpg used on input line 3193.
+Package pdftex.def Info: immagini/acclimatazione.jpg used on input line 3206.
 (pdftex.def)             Requested size: 269.00023pt x 163.80908pt.
- [174 <./immagini/acclimatazione.jpg>]
-[175]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3236.
- [176]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3236.
- (./fis_veg_appunti_book .aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3236.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3236.
+ [176 <./immagini/acclimatazione.jpg>]
+[177] [178]
+Underfull \vbox (badness 1406) has occurred while \output is active []
 
-Package rerunfilecheck Info: File `"fis_veg_appunti_book ".out' has not changed
-.
-(rerunfilecheck)             Checksum: A1F8A405663DCBF5B392F1A4E32F4904;12026.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3236.
+ [179]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3293.
+
+[180]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3293.
+ (./fis_veg_appunti_book .aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3293.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3293.
+
+
+
+Package rerunfilecheck Warning: File `"fis_veg_appunti_book ".out' has changed.
+
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"fis_veg_appunti_book ".out':
+(rerunfilecheck)             Before: A36950566C0657E0236B03D6E592CD80;12116
+(rerunfilecheck)             After:  99BE0F6AAB65F6D120D216AE130759F1;12269.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3293.
  ) 
 Here is how much of TeX's memory you used:
- 19493 strings out of 493485
- 332074 string characters out of 3143525
+ 19504 strings out of 493485
+ 332218 string characters out of 3143525
  406418 words of memory out of 3000000
- 21757 multiletter control sequences out of 15000+200000
+ 21758 multiletter control sequences out of 15000+200000
  24919 words of font info for 64 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 63i,15n,92p,997b,1049s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/
-fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/publi
-c/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.
-pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texm
-f/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public
-/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.p
-fb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf
-/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/
-cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pf
-b></usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf/
-fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfti1200.pfb>
-Output written on "fis_veg_appunti_book .pdf" (176 pages, 4580076 bytes).
+ 63i,15n,92p,1069b,1049s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{section.7.4} has been referenced but does not exi
+st, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fo
+nts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pf
+b></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/
+fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfrm0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
+</usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texmf/fo
+nts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-
+super/sfti1200.pfb>
+Output written on "fis_veg_appunti_book .pdf" (180 pages, 4590364 bytes).
 PDF statistics:
- 2183 PDF objects out of 2487 (max. 8388607)
- 1895 compressed objects within 19 object streams
- 610 named destinations out of 1000 (max. 500000)
- 1660 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2215 PDF objects out of 2487 (max. 8388607)
+ 1922 compressed objects within 20 object streams
+ 620 named destinations out of 1000 (max. 500000)
+ 1668 words of extra memory for PDF output out of 10000 (max. 10000000)
 

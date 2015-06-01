@@ -257,7 +257,7 @@ Il profilo del suolo è composto da una serie di strati, gli \emph{orizzonti}:
 \begin{itemize}
 \item{Orizzonte O: organico, humus + lettiera vegetale. Strato inerte dal punto di vista di nutrimento delle piante}
 \item{Orizzonte A: il materiale organico inizia ad essere degradato e a costituire nutrimento, permettendo al suolo di trattenere ioni ed acqua. Le sostanze più fini, tipo l'argilla, vengono dilavate da questo strato, scendendo verso il basso, e si portano dietro le componenti colloidali che vanno nello strato illuviale}
-\item{Orizzonte B: stato illuviale, dilavamento dell'argilla, assenza di pigmenti}
+\item{Orizzonte B: strato illuviale, dilavamento dell'argilla, assenza di pigmenti}
 \item{Orizzonte C: roccia che dà origine ai materiali minerali, iniziale trasformazione della roccia madre, ma non presenta modificazione da parte di sostanze organiche \lfreccia no nutrimento piante}
 \item{Orizzonte R: roccia madre, non trasformata}
 \end{itemize}
@@ -267,7 +267,7 @@ Le particelle più grandi che troviamo nel suolo sono quelle di \emph{sabbia}, d
 Le particelle di \emph{limo} hanno dimensioni un poco inferiori: superficie liscia appiattita \lfreccia suolo compatto, che trattiene acqua, la quale circola male.
 
 Le particelle di \emph{argilla }sono le più piccole, fromate da silicati di alluminio, che costituiscono un reticolo cristallino caratterizzato da carica superficiale netta negativa (trattenimento di cationi).
-L'argilla costituisce cristalli con grande capacità di solvatazione \lfreccia le cariche - interagiscono come i dipoli dell'acqua, quindi l'argilla riesce a trattenere discrete quantità di acqua. Gli spazi tra le particelle sono piuttosto piccoli (micropori).
+L'argilla costituisce cristalli con grande capacità di solvatazione \lfreccia le cariche - interagiscono con i dipoli dell'acqua, quindi l'argilla riesce a trattenere discrete quantità di acqua. Gli spazi tra le particelle sono piuttosto piccoli (micropori).
 
 Certi cationi vengono legati meglio di altri: i bivalenti sono legati più fortemente. Es. magnesio lega meglio del calcio: importante perchè le piante hanno bisogno di determinate dosi dei vari elementi. 
 
@@ -298,10 +298,10 @@ La struttura del terreno è importante: un terreno meno compatto favorisce la ci
 Le singole particelle del suolo tendono ad aggregarsi per attrazione fisica e chimica. Cationi come il calcio , il magnesio e l’alluminio con più di una carica positiva agiscono come un \emph{ponte elettrostatico} che lega insieme due particelle di argilla cariche negativamente. Terreni con struttura ottimale hanno ampi spazi vuoti che aumentano il movimento dell’aria e dell’acqua nel suolo.
 A seconda della quantità di materia organica, si hanno diverse compattezze: meno ce n'è, meno è compatto il suolo.
 
-\paragraph{Humus} si trova nel livello che comprende l'apparato radicale, sopra la componente argillosa. È ciò che deriva dalla decomposizine della sostanza organica dai microrganismi del suolo. Può essere labile o stabile:
+\paragraph{Humus} si trova nel livello che comprende l'apparato radicale, sopra la componente argillosa. È ciò che deriva dalla decomposizione della sostanza organica dai microrganismi del suolo. Può essere labile o stabile:
 \begin{itemize}
 \item{Labile: dato da macromolecole, primi prodotti della decomposizione della materia orgnaica}
-\item{Stabile: molcole che hanno subito un ulteriore processo di degradazione. Gli elementi che lo compongono sono : C, N, P (di fosforo solo lo 0.5\%, di carbonio il 50\%)}
+\item{Stabile: molecole che hanno subito un ulteriore processo di degradazione. Gli elementi che lo compongono sono : C, N, P (di fosforo solo lo 0.5\%, di carbonio il 50\%)}
 \end{itemize}
 
 \paragraph{}
@@ -309,7 +309,7 @@ L'acqua nel suolo è presente in modo variabile: le variazioni sono date dalla p
 
 La capacità che un suolo ha di trattenere acqua è detta \emph{capacità di campo}, ovvero la quantità di acqua per grammo del suolo. Si pesa un campione di suolo, si satura di acqua, si lascia sgocciolare per togliere l'acqua in eccesso e si ripesa il campione, misurando così la quantità di acqua trattenuta. 
 
-Nel suolo sono presenti \emph{pori}, nei quali si trova aria circolante. A seguito dei processi di adesione e coesione, si ha una maggior disponibilità di acqua nelle parti più prossime alla superficie, e via via che ci si allontana il quantitativo di acqua si assottiglia fino all'arrivo alla superficie del poro. L'acqua tende quindi ad aderire alle particellle solide, creando interstizi nei quali l'aria può circolare.
+Nel suolo sono presenti \emph{pori}, nei quali si trova aria circolante. A seguito dei processi di adesione e coesione, si ha una maggior disponibilità di acqua nelle parti più prossime alla superficie, e via via che ci si allontana il quantitativo di acqua si assottiglia fino all'arrivo alla superficie del poro. L'acqua tende quindi ad aderire alle particelle solide, creando interstizi nei quali l'aria può circolare.
 
 L'acqua può penetrare all'interno della radice grazie ad una \emph{differenza di potenziale idrico}, negativo per la pianta e meno negativo per il suolo. Questo \emph{potenziale idrico del suolo} ha le 3 componenti del potenziale idrico. 
  
@@ -340,7 +340,7 @@ Il pH è legato alla capacità del suolo di rendere o meno disponibili determina
 
 
 \section{Assorbimento di acqua a livello della radice}
-In prossimità della radice c'è  una \emph{zona di esaurimento} dei nutrienti, che vengono assorbiti dai peli radicali. La zona di ingerenza della radice si amplia nel suolo proprio grazie a questi peli : es. il segnale ha 625 km/pianta di radici, comprende una superficie di 230 $m^{2}$.
+In prossimità della radice c'è  una \emph{zona di esaurimento} dei nutrienti, che vengono assorbiti dai peli radicali. La zona di ingerenza della radice si amplia nel suolo proprio grazie a questi peli : es. il segale ha 625 km/pianta di radici, comprende una superficie di 230 $m^{2}$.
 
 
 I peli si trovano nella parte alta della radice: qui aumentano l'assorbimento penetrando negli spazi tra le particelle del suolo. Nella parte del root cap e del centro quiescente invece l'acqua entra in modo più lento, guidata dall'osmosi. L'acqua entra per diffusione, richiamata dai soluti disciolti all'interno delle cellule (scarsa). 
@@ -349,8 +349,8 @@ I peli si trovano nella parte alta della radice: qui aumentano l'assorbimento pe
 \includegraphics[scale=0.5]{immagini/radice.jpg}
 \caption{Distribuzione dei peli radicali e velocità di assorbimento}
 \end{figure}
-Nei peli radicali, l'acqua entra per omosi: le cellule hanno grandi e numerosi vacuoli. Nel cilindro centrale è presente una tensione: genera un potenziale idrico più basso nello xilema rspetto alle cellule del pelo radicale, e quini l'acqua si sposterà dei peli radicali verso lo xilema. 
-i peli radicali sono fragili, vengono danneggiati rapidamente (vita media 2 gg).
+Nei peli radicali, l'acqua entra per omosi: le cellule hanno grandi e numerosi vacuoli. Nel cilindro centrale è presente una tensione: genera un potenziale idrico più basso nello xilema rspetto alle cellule del pelo radicale, e quindi l'acqua si sposterà dei peli radicali verso lo xilema. 
+I peli radicali sono fragili, vengono danneggiati rapidamente (vita media 2 gg).
 
 Se vediamo il grafico di assorbimento di acqua nelle varie zone della radice, a partire dall'apice radicale si ha assorbimento che aumenta avvicinandosi alla zona che presenta peli radicali. Man a mano che ci allontaniamo, diminuisce drasticamente perchè si ha suberizzazione della parete delle cellule.
 
@@ -377,20 +377,20 @@ Nella maggior parte delle piante, lo xilema costituisce la parte più lunga dell
 
 Lo xilema è formato da due tipi di vasi: \emph{tracheidi} e gli \emph{elementi dei vasi}. Le tracheidi si trovano in angiosperme e gimnosperme, gli elementi dei vasi solo nelle angiosperme e in un piccolo gruppo di gimnosperme. La maturazione di questi vasi coinvolge la deposizione della parete secondaria e la morte delle cellule.\todo{ricontrolla su botanica}
  
-Nei vasi si ha frequentmente occlusione: si occludono zone più o meno ampie di una trachea o di una tracheide. Le perforazioni laterali permettono di isolare questo vaso e di far andare l'acqua nel vaso accanto, in modo tale che il flusso di acqua non si blocchi.
+Nei vasi si ha frequentemente occlusione: si occludono zone più o meno ampie di una trachea o di una tracheide. Le perforazioni laterali permettono di isolare questo vaso e di far andare l'acqua nel vaso accanto, in modo tale che il flusso di acqua non si blocchi.
 
 (8.10.2014)
 
 
 Attraverso lo xilema, l'acqua attraversa tutta la pianta e forma una \emph{rete continua} all'interno della pianta. La forza che guida il movimento è il \emph{potenziale idrico}: l'acqua compie lavoro spostandosi da un distretto all'altro della pianta, \emph{da un potenziale maggiore ad un potenziale inferiore}. Il potenziale minimo diminuisce all'interno della pianta man a mano che ci si avvicina all'atmosfera.
 
-Dal suolo l'acqua penetra nei peli radicali, guidata da un gradiente di potenziale idrico, in seguito ad assorbimento di ioni, che vanno nel vacuolo ed aumentano la pressione osmotica, diminuendo il potenziale idrico della radice rispetto a quello dell'acqua nel suolo. Muovendosi nell'apoplasto o attraverso il simplasto (via preferenziale), l'acqua raggiunge l'endoderma: qui la banda del Caspari oppone resistenza, quindi l'acqua si tasferisce nel simplasto e si muove verso potenziale idrico minore all'interno dello xilema nella radice. Nello xilema si ha di nuovo il caricamento di ioni, quindi qui il potenziale è molto molto basso, 10 volte inferiore a quello del suolo. Qui il pot idrico dalla parte radicale alla parte apicale subisce un forte decremento: l'acqua si muove secondo flusso di massa da un potenziale idrico pari a -0,3 a 10 volte inferiore nelle foglie. Dalle foglie all'atmosfera il potenziale idrico diminuisce di altre 10 volte.
+Dal suolo l'acqua penetra nei peli radicali, guidata da un gradiente di potenziale idrico, in seguito ad assorbimento di ioni, che vanno nel vacuolo ed aumentano la pressione osmotica, diminuendo il potenziale idrico della radice rispetto a quello dell'acqua nel suolo. Muovendosi nell'apoplasto o attraverso il simplasto (via preferenziale), l'acqua raggiunge l'endoderma: qui la banda del Caspari oppone resistenza, quindi l'acqua si tasferisce nel simplasto e si muove verso potenziale idrico minore all'interno dello xilema nella radice. Nello xilema si ha di nuovo il caricamento di ioni, quindi qui il potenziale è molto molto basso, 10 volte inferiore a quello del suolo. Qui il potenziale idrico dalla parte radicale alla parte apicale subisce un forte decremento: l'acqua si muove secondo flusso di massa da un potenziale idrico pari a -0,3 a 10 volte inferiore nelle foglie. Dalle foglie all'atmosfera il potenziale idrico diminuisce di altre 10 volte.
 
 A livello della foglia è favorito il movimento apoplastico.
 La negativizzazione della pressione all'interno dello xilema spinge l'acqua verso l'alto e contribuisce all'evaporazione nelle foglie: \emph{l'evaporazione agisce come una forza di trazione} nella colonna continua di acqua nello xilema. Le molecole di acqua aderiscono ai vasi mediante forze adesive e fra loro mediante forze coesive. La trazione infatti si trasmette tra le molecole, mentre le forze adesive permettono il mantentimento della continuità della colonna.
 
 Un fenomeno legato a queste caratteristiche di coesione ed adesione è la \emph{capillarità}, ovvero l'ascesa dell'acqua in un tubo di piccole dimensioni (come sono i vasi xilematici), resa possibile da queste proprietà di adesione e coesione delle molecole d'acqua. Si giustificano però solo movimenti molto piccoli! 
-Questo fenomeno si realizza in parte nelle piante, guidato a sua volta da un aumento della pressione osmotica nei vasi in seguito ad ingresso attivo di ioni dalle radici: se ad esempio recidiamo un ramo di vite, si osserva fuoriuscita di liquido dai vasi xilematici. In queste piante a livello della radice si crea una \emph{pressione positiva} dovuta a richiamo di acqua a seguito della traslocazione attiva di ioni nel vacuolo della radice: in alcune piante ciò crea un movimento di acqua anche significativo (come nella vite) , ma in generale non è sufficiente a spingere l'acqua verso l'acqua. È una \textbf{tensione} qella che permette l'ascesa dell'acqua nello xilema.
+Questo fenomeno si realizza in parte nelle piante, guidato a sua volta da un aumento della pressione osmotica nei vasi in seguito ad ingresso attivo di ioni dalle radici: se ad esempio recidiamo un ramo di vite, si osserva fuoriuscita di liquido dai vasi xilematici. In queste piante a livello della radice si crea una \emph{pressione positiva} dovuta a richiamo di acqua a seguito della traslocazione attiva di ioni nel vacuolo della radice: in alcune piante ciò crea un movimento di acqua anche significativo (come nella vite) , ma in generale non è sufficiente a spingere l'acqua verso l'alto. È una \textbf{tensione} quella che permette l'ascesa dell'acqua nello xilema.
 La pianta non impiega energia per promuovere il movimento dell'acqua, ma c'è un imput: l'\emph{energia solare} introduce energia nel sistema, favorendo il fenomeno.
 
 La \emph{coesione} consente all'acqua di sopportare tensioni molto elevate (-30 MPa).
@@ -403,22 +403,22 @@ La traspirazione dipende dal potenziale idrico dell'aria e dalla resistenza stom
 Il \emph{potenziale idrico dell'aria} è dato da:
 \begin{equation}
 \centering
-\Psi W =\frac{RT ln(RH)}{V_{w}}
+\Psi_W =\frac{RT ln(RH)}{V_{w}}
 \end{equation}
 
 dove RH è l'umidità relativa dell'aria e $V_{w}$ il volume molare dell'acqua liquida.
 
-Il potenziale idrico diventa sempre più negativo man a mano che ci si allontana dalla foglia. in questo modo l'acqua passa dalla foglia all'atmosfera\footnote{Perchè, come abbiamo detto prima, l'acqua si muove da una zona a potenziale idrico maggiore ad una zona a potenziale idrico minore}.
+Il potenziale idrico diventa sempre più negativo man a mano che ci si allontana dalla foglia, in questo modo l'acqua passa dalla foglia all'atmosfera\footnote{Perchè, come abbiamo detto prima, l'acqua si muove da una zona a potenziale idrico maggiore ad una zona a potenziale idrico minore}.
 
 Come si produce la pressione negativa?
 Con la stessa modalità a livello del suolo: si misura in termini di tensione di curvatura del menisco. 
 
 \subsection{Teoria della tensione-coesione-adesione}
-Negli spazi interstiziali del mesofillo spugnoso, man a mano che l'acqua evapora, si riduce la quantità d'acqua nella foglia e si assottiglia lo strato di acqua all'interno di questo tessuto. Se evapora molta acqua, la pellicola si distribuisce a riverstire le singole fibrille di cellulosa e descrive dei menischi sempre più curvi, il cui raggio di curvatura diviene sempre più piccolo. La tensione superficiale, essendo sempre la stessa, riduce significativamente il potenziale a questo livello \lfreccia tensione sempre più negativa. Ecco che \emph{la forte pressione negativa (tensione) che spinge l'acqua dal suolo verso l'alto è generata proprio suppe parti superficiali delle cellule della foglia}.
+Negli spazi interstiziali del mesofillo spugnoso, man a mano che l'acqua evapora, si riduce la quantità d'acqua nella foglia e si assottiglia lo strato di acqua all'interno di questo tessuto. Se evapora molta acqua, la pellicola si distribuisce a riverstire le singole fibrille di cellulosa e descrive dei menischi sempre più curvi, il cui raggio di curvatura diviene sempre più piccolo. La tensione superficiale, essendo sempre la stessa, riduce significativamente il potenziale a questo livello \lfreccia tensione sempre più negativa. Ecco che \emph{la forte pressione negativa (tensione) che spinge l'acqua dal suolo verso l'alto è generata proprio sulle parti superficiali delle cellule della foglia}.
 
 Grande vascolarizzazione della foglia: le nervature raggiungono i distretti più lontani della foglia, perchè lo xilema deve arrivare fino alle camere sottostomatiche. Ogni cellula della foglia è vicinissima allo xilema, in modo tale che la tensione nello xilema possa \emph{propagarsi}.
 
-Le lignificazioni a cui vanno incontro i vasi xilematici sono importantissimi perchè se i vasi non fossero rigidi ed incomprimibili, collasserebbero sotto la forte tensione dell'acqua. Questi vasi hanno comunque un certo grado di elasticità \lfreccia variazioni giornaliere del diametro del tronco. Si ha un progressivo aumento del potenziale idrico dalla radice alle parti aeree della pianta.
+Le lignificazioni a cui vanno incontro i vasi xilematici sono importantissime perchè se i vasi non fossero rigidi ed incomprimibili, collasserebbero sotto la forte tensione dell'acqua. Questi vasi hanno comunque un certo grado di elasticità \lfreccia variazioni giornaliere del diametro del tronco. Si ha un progressivo aumento del potenziale idrico dalla radice alle parti aeree della pianta.
 
 (13.10.2014)
 \paragraph{Recapitolando...}
@@ -427,12 +427,12 @@ Le lignificazioni a cui vanno incontro i vasi xilematici sono importantissimi pe
 \item{Il potenziale osmotico è sempre negativo, anche nelle cellule in cui il potenziale idrico è positivo}
 \item{Il potenziale gravitazionale è 0 o poco più in tutte le parti dello xilema al di sotto di 10 metri: dopo è circa 0.1, e non più trascurabile}
 \item{La differenza di pressione, o meglio la \emph{tensione} all'interno dello xilema, è il motore del flusso dell'acqua}
-\item{La pressione che serve all'ascesa dell'acqua si genera proprio per tensione-coesione-adesione. Per le legge di poiseuille, serve una differenza di pressione di 2 MPa per uno spostamento di 100 metri.}
+\item{La pressione che serve all'ascesa dell'acqua si genera proprio per tensione-coesione-adesione. Per le legge di Poiseuille, serve una differenza di pressione di 2 MPa per uno spostamento di 100 metri.}
 \item{La capillarità non giustifica l'ascesa dell'acqua, la quale  è invece determinata dalle forze di adesione alle pareti del vaso e coesione delle molecole: ciò permette l'ascesa fino a che queste forze di adesione-coesione non sono controbilanciate dalla forza di gravità. L'ascesa per capillarità è inversamente proporzionale al diametro del tubo: affinchè l'acqua salga di 100 metri, servirebbe un tubo minuscolo, che non esiste nelle piante}
 \item{La pressione radicale, positiva, non sviluppa abbastanza pressione \lfreccia si ha richiamo d'acqua che sviluppa pressione positiva, ma piuttosto limitata. Inoltre questa pressione positiva non si verifica in tutte le specie}
 \end{itemize}
 
-L'evidenza della presenza della pressione negativa è la misurazione del diametro del fusto, che in condizioni di traspirazione elevata, ed aumenta la tensione all'interno del flusso xilematico: si ha \emph{contrazione del fascio vascolare} e un restringimento del diametro. 
+L'evidenza della presenza della pressione negativa è la misurazione del diametro del fusto: in condizioni di traspirazione elevata aumenta la tensione all'interno del flusso xilematico \lfreccia si ha \emph{contrazione del fascio vascolare} e un restringimento del diametro. 
 
 \subsection{Misurazione del potenziale di pressione nei vasi xilematici}
 \paragraph{Bomba a pressione} tensione misurata sulla base della pressione che va esercitata affinchè l'acqua nel ramo tagliato raggiunga di nuovo la superficie di taglio.
@@ -444,7 +444,7 @@ L'evidenza della presenza della pressione negativa è la misurazione del diametr
 Nelle sequoie ad esempio serve una grande differenza di pressione affinchè l'acqua possa muoversi. Essa è collegata alla velocità di traspirazione. I valori di pressione all'interno dello xilema diminuiscono (assumono valori più negativi) man a mano che si sale verso l'alto (quando la pianta traspira normalmente); quando la pianta non traspira, le pressioni sono sigificativamente più inferiori.
 
 \subsection{Cavitazione ed embolia}
-Il fatto che esistano forti tensioni nei vasi xilematici della pianta genera lo stato \emph{metastabile} nella pianta: l'acqua non evapora nello xilema, anche se lo stato gassoso sarebbe termodinammicamente più favorito. Possono però formarvisi bolle d'aria. Nella pianta le tensioni intorno ai 3 MPa non sono sufficienti per rompere la colonna e far vaporizzare l'acqua (servirebbero infatto 30 MPa).
+Il fatto che esistano forti tensioni nei vasi xilematici della pianta genera lo stato \emph{metastabile} nella pianta: l'acqua non evapora nello xilema, anche se lo stato gassoso sarebbe termodinammicamente più favorito. Possono però formarvisi bolle d'aria. Nella pianta le tensioni intorno ai 3 MPa non sono sufficienti per rompere la colonna e far vaporizzare l'acqua (servirebbero infatti 30 MPa).
 
 Le bolle d'aria possono formarsi perchè si hanno alte velocità di traspirazione: in condizioni di elevata temperatura e ventosità, si ha elevata traspirazione e possono venire richiamate bolle d'aria dall'esterno dall'apoplasto radicale. Esse resterebbero tali, ma possono anche dilatarsi e andare ad occupare l'intera dimensione del vaso: il vaso non riesce quindi più a trasmettere la tensione e il flusso si interrompe.
 
@@ -501,7 +501,7 @@ Esistono aperture sul tronco, o \emph{lenticelle}, che attraversano la corteccia
 I fattori determinanti la traspirazione sono:
 \begin{enumerate}
 \item{Gradiente della pressione del vapore acqueo: più è ripido , più veloce è la diffusione dell'acqua dal mesofillo all'atmosfera}
-\item{Resistenze aalla diffusione del vapoe acqueo: strato di aria ferma sulla superficie della foglia e chiusura stomi}
+\item{Resistenze alla diffusione del vapore acqueo: strato di aria ferma sulla superficie della foglia e chiusura stomi}
 \end{enumerate}
 
 \begin{figure}[H]
@@ -511,7 +511,7 @@ I fattori determinanti la traspirazione sono:
 \end{figure}
 Umidità relativa \lfreccia misura della concentrazione del vapore acqueo in diversi ambienti, riferendoci alla pressione parziale del vapore acqueo in codizioni di saturazione.
 
-Resistenza dello strato limite \lfreccia varia con lo spessore dell'aria immobile sulla superficie della foglia. Esso dipende dalla velocità del vento, dall'anatomia fogliare e dall'orientamento della lamina fogliarepuò controllarlo la pianta andando incontro a modificazioni strutturali, tipo aumentando i peli in prossimità dello stoma: questi intrappolano aria ed evitano turbolenze: anche altre modificazioni tipo l'invaginazione degli stomi, modificazioni nella disposizione della foglia per esporle meno ai movimento dell'acqua.
+Resistenza dello strato limite \lfreccia varia con lo spessore dell'aria immobile sulla superficie della foglia. Esso dipende dalla velocità del vento, dall'anatomia fogliare e dall'orientamento della lamina fogliare. Può controllarlo la pianta andando incontro a modificazioni strutturali, ad esempio aumentando i peli in prossimità dello stoma: questi intrappolano aria ed evitano turbolenze: anche altre modificazioni tipo l'invaginazione degli stomi, modificazioni nella disposizione della foglia per esporle meno ai movimento dell'acqua.
 
 Resistenza stomatica fogliare \lfreccia apertura stomatica regolata in base alle esigenze metaboliche della pianta: aumentando l'apertura, aumenta la traspirazione. Controllo poco efficiente se la resistenza dello strato limite diminuisce troppo in base alla ventilazione sulla foglia della pianta :  maggiore traspirazione con maggiore ventilazione.
 
@@ -2143,19 +2143,31 @@ Hanno un parenchima acquifero in grado di contenere alte quantità di acqua. Le 
 Sono piante con un apparato radicale ridotto e superficiale.
 
 In generale, sono caratterizzate da organi succulenti che presentano al loro interno grandi quantità di acqua (all'interno del vacuolo o nel parenchima acquifero). Nel vacuolo si trovano grandi quantità di acido malico, che è il prodotto della carbossilazione ad opera della PEP carbossilasi: esso deve restare tutta la notte nel citosol per essere utilizzato la mattina dalla RuBisCO. È un acido e viene accumulato all'interno del vacuolo. Per succulenza si intende un alto rapporto vacuolo-superficie della pianta.
+\subsection{CAM cycling}
+Durante la notte la $CO_2$ prodotta dalla respirazione\footnote{queste piante aprono e chiudono gli stomi come le C3} e una certa atività della PEP carbossilasi fissa la $CO_2$, che viene rilasciata con il processo respiratorio. Questa attività va a sommarsi a quella della RuBisCO.
 
-\section{Confronto CAM e C4}
+\subsection{Discriminazione isotipica}
+Capacità delle piante di discriminare tra le varie forme di C che utilizzano per la fissazione. Le piante distinguono tra gli isotopi 12 e 13: la loro diversa capacità di discriminazione viene espressa in base alla composizione isotopica dei tessuti dela pianta. Le C3 hanno il più basso livello di isotopo 13: queste specie risultano preferire nella fissazione del C l'isotopo 12, ciò deriva dal fatto che la RuBisCO distingue questi due isotopi, preferendo il C12. Nelle C4, dove la fissazione del C da parte della RuBisCO è legata a quella effettuata dalla PEP-carbossilasi (quindi non presa direttamente dall'atmosfera come nelle C3), la discriminazione è molto più bassa: la PEP-carbossilasi ha minor capacità di discrimiazione.
+\subsection{Confronto CAM e C4}
 L'amido durante il giorno viene aumentato ad opera dell'attività della RuBisCO. 
 
 Nelle C4 le due carbossilazioni sono separate spazialmente, nelle CAM temporalmente.  
 
-(manca lezione marzo)
 \chapter{Trasporto floematico}
-(9.03.2015)
+Meccanismi che portano al caricamento del saccarosio prodotto al termine del ciclo di Calvin nelle foglie, nel fascio vascolare del floema e la distribuzione alle varie parti della pianta.
 
-Nel floema il danno provoca fuoriuscita.
+Nel fascio vascolare troviamo verso l'interno i fasci xilematici e verso l'esterno le cellule del fluoema, che sono cellule viventi che partecipano attivamente alla traslocazione dei fotoassimilati. L'accrescimento secondario, dovuto all'attività delcambio cribro-vascolare, vede verso l'interno prodotte cellule del legno (xilema) e verso l'esterno cellule del floema secondario.
+Le cellule che costituiscono il floema sono:
+\begin{itemize}
+\item{Nelle Gimnosperme sono meno efficienti, sono cellule fusiformi, allungate, che non hanno una vera e propria apertura per comunicare con altre cellule. Presentano cellule compagne che caricano il saccarosio}
+\item{Nelle Angiosperme le cellule comunicano fra loro tramite aperture: ciò agevola il flusso della linfa. Presentano placche cribrose che le mette in contatto con la cellula compagna, la quale favorisce il caricamento dei fotoassimilati}
+\end{itemize}
+Molti degli organuli sono scomparsi o hanno perso funzionalità: il vacuolo è ridotto e il citoplasma è periferico, in modo che la parte centrale della cellula è sgombra e facilita il flusso della linfa. Inoltre è presente una \textbf{proteina P}, che ha la funzione di intervenire al momento in cui si ha danno meccanico. Al contrario dello xilmea, nel floema esiste una pressione idrostatica positiva che, al momento in cui c'è una ferita, tenderebbe a far uscire la linfa organicata fuori dal vaso. Per ovviare a ciò, sono presenti dei meccanismi che determinano riarrangiamento della Proteina P, che si colloca in prossimità della zona di taglio, oppure si ha produzione di callosio.
 
-In un tubo criibroso sono evidenti i pori e la cellula compagna. Il callosio viene depositato a livello del poro. Il callosio è un polimero di glucosio con legami $\beta$ 1-3. La callosio sintetasi viene sintetizzata in seguito al danno meccanico dell'elementio cribroso. In piante resistenti all'azione dei parassiti, si ha sintesi di callosio nonostante il parassita induca la sintesi di callosio idrolasi\footnote{idrolizza il callosio}. 
+
+In un tubo cribroso sono evidenti i pori e la cellula compagna. Il callosio viene depositato a livello dei pori al momento del danno meccanico, isolando la cellula danneggiata. Il callosio è un polimero di glucosio con legami $\beta$ 1-3. La callosio sintetasi viene sintetizzata in seguito al danno meccanico dell'elementio cribroso. In piante resistenti all'azione dei parassiti, si ha sintesi di callosio nonostante il parassita induca la sintesi di callosio idrolasi\footnote{idrolizza il callosio}. 
+
+Se nello xilema la direzione del flusso era verso l'alto, guidato dal gradiente di potenziale idrico, in questo caso il flusso dei fotoassimilati è multidirezionale: dalla foglia verso i tessuti non fotosintetizzanti e verso tessuti che accumulano fotoassimilati, come frutti e foglie in via di sviluppo.
 
 \section{Cellule compagne}
 Coadiuvano l'azione degli elementi cribrosi. Fondamentali perchè funzionali nella traslocazione dei fotoassimilati dal mesofillo fogliare al floema. Diversi tipi di cellule compagne per il tipo di connessione che formano con i tessuti circostanti il vaso floematico.
@@ -3004,24 +3016,24 @@ sopprimere nucleazione con notevole
 sovraraffreddamento: riescono a raggiungere -40\textcelsius, perchè a quel punto il ghiaccio inizia a formarsi anche in assenza di nucleazione. Alcune piante riescono a tollerare temperature inferiori.
 
 La limitazione della formazione del ghiaccio contribuisce alla tolleranza: ci sono proteine specializzate, \emph{antifreeze proteins}, che aiutano a contrastare la formazione di ghiaccio. Sono proteine indotte dalle basse temperature che si legano ai cristalli di ghiaccio e ne impediscono l'ulteriore crescita.
-
-Piante che sono state acclimatate hanno bisogno di esposizione a temperature basse affichè si abbia sviluppo della resistenza. LA resistenza al freezing coinvole sovraraffreddamento e lenta disidratazione. L'acclimatazione viene anche persa velocemente quando si ha la ripresa della crescita in primavera.
+Piante che sono state acclimatate hanno bisogno di esposizione a temperature basse affichè si abbia sviluppo della resistenza. La resistenza al freezing coinvolge sovraraffreddamento e lenta disidratazione. L'acclimatazione viene anche persa velocemente quando si ha la ripresa della crescita in primavera.
 
 L'ABA sembra essere coinvolto nell'acclimatazione al freezing. La tolleranza è aumentata sia con ABA esogeno che da cold acclimatation: esse cambiano il pattern di espressione di proteine.
 
-I mutanti di Arabidospis sono utili per vedere l'importnza di ABA: mutanti insensibili all'ABA mostrano che la freezing tollerance è inducibile solo in essi.
+I mutanti di Arabidospis sono utili per vedere l'importanza di ABA: mutanti insensibili all'ABA mostrano che la freezing tollerance è inducibile solo in essi.
 
-In alcuni casi la tolleranza al freezin viene indotta iteramente da ABA.
+In alcuni casi la tolleranza al freezing viene indotta iteramente da ABA.
 
 (6.05.15)
-In condizioni di cold strss, il cambiamento dell'espressione genica non è così drammatico come per lo stress ad alte temperature: è vero che c'è sintesi di nuove proteine, ma continua in paralelo la sintesi delle proteine normalmente espresse (housekeeping).
 
-La sintesi di HSP e chaperonine molecolari, che sono sovraregolate in entrambe le condizioni (cold stree ed heat stress), perchè in entrambe i casi si ha disorganizzazione delle proteine.
-Molti geni sono indotti anche dallo stress irtico e dall'ABA.
+In condizioni di cold sterss, il cambiamento dell'espressione genica non è così drammatico come per lo stress ad alte temperature: è vero che c'è sintesi di nuove proteine, ma continua in parallelo la sintesi delle proteine normalmente espresse (housekeeping).
+
+La sintesi di HSP e chaperonine molecolari sono sovraregolate in entrambe le condizioni (cold stress ed heat stress), perchè in entrambe i casi si ha disorganizzazione delle proteine.
+Molti geni sono indotti anche dallo stress idrico e dall'ABA.
  	
-Se faccio delle piante di Arabidopsis OGm che esprimono costitutivamente la proteine COR15 hanno maggior resistenza al freezin. Si è ipotizzato che questa proteina interagisca con la membrana del cloroplasto, alterandone la curvatura e rendendola più resisitente. Queste proteine si ritrovano anche nel grano: piante di controllo e piante acclimatate per 14 gg a 4 \textcelsius: vediamo l'espressione di COR14, che è assente in condizioni di controllo.
+Se faccio delle piante di Arabidopsis OGM che esprimono costitutivamente la proteine COR15, hanno maggior resistenza al freezing. Si è ipotizzato che questa proteina interagisca con la membrana del cloroplasto, alterandone la curvatura e rendendola più resistente. Queste proteine si ritrovano anche nel grano: piante di controllo e piante acclimatate per 14 gg a 4 \textcelsius: vediamo l'espressione di COR14, che è assente in condizioni di controllo.
 
-esistono le \emph{Antifreeze proteins}: inibiscono la crescita di cristalli di ghiacico in modo non colligativo  e prevengono il danno da ghiaccio alle temperature intermedie, non solo a quelle estreme, conferendo alle soluzionio acquose l'\emph{isteresi termica}: la transizione liquido-solido avviene a T più bassa che al trasnizione solido-liquido. Sono definite anche proteine di isteresi termica. molte di queste si accumulano in monocotiledoni invernali, acclimatate al freddo e resistenti. Tutte appartengono a proteine come le endochitinasi e le endoglucanasi. In seguito all'attacco di patogeni si ha l'espressione di pathogenesis-related proteins.
+Esistono le \emph{Antifreeze proteins}: inibiscono la crescita di cristalli di ghiaccio in modo non colligativo  e prevengono il danno da ghiaccio alle temperature intermedie, non solo a quelle estreme, conferendo alle soluzioni acquose l'\emph{isteresi termica}: la transizione liquido-solido avviene a T più bassa che al transizione solido-liquido. Sono definite anche proteine di isteresi termica. Molte di queste si accumulano in monocotiledoni invernali, acclimatate al freddo e resistenti. Tutte appartengono a proteine come le endochitinasi e le endoglucanasi. In seguito all'attacco di patogeni si ha l'espressione di pathogenesis-related proteins.
 
 C'è anche la sovraespressione di proteine associate allo stress osmotico, indotte da cold-stress:
 \begin{itemize}
@@ -3032,16 +3044,16 @@ C'è anche la sovraespressione di proteine associate allo stress osmotico, indot
 
 Ci sono dei fattori di trascrizione che si legano a sequenze vicino al promotore del gene e ne inducono la trascrizione (indotta dal freddo).
 
-\chapter{Stress da metalli pesanti}
-I metalli pesanti sono metalli o metalloidi che hano una densità atomica >5g/$cm^{3}$ e un peso atomico >20. Alcuni sono micronutrienti per la pianta, ma devono essere mantenuti entro una certa soglia. Troviamo di solito piombo, cromo, arsenico, zinco..
+\section{Stress da metalli pesanti}
+I metalli pesanti sono metalli o metalloidi che hanno una densità atomica >5g/$cm^{3}$ e un peso atomico >20. Alcuni sono micronutrienti per la pianta, ma devono essere mantenuti entro una certa soglia. Troviamo di solito piombo, cromo, arsenico, zinco..
 
-Vengono rilasciati nell'amviene in seguito ad attività antropogeniche. I microbi riescono però solo ad intervenire sui contaminanti organici per detossificarli: i metalli pensanti non sono invece biodegradabili e, una volta nell'ambiente vi possono permanere per lungo tempo.
+Vengono rilasciati nell'ambiente in seguito ad attività antropogeniche. I microbi riescono però solo ad intervenire sui contaminanti organici per detossificarli: i metalli pensanti non sono invece biodegradabili e, una volta nell'ambiente vi possono permanere per lungo tempo.
 
-Già a concentrazioni molto basse si ha inibizione della crescita sia della parte epigea che della parte ipogea (già a 60 $\mu M$). La pianta cerca di rispondere a questa esposizione: ad esempio tramite associazioni miccorrizziche, che riescono a mantenere la tolleranza. Tramite le radici le piante rilasciano moltissime sostanze quali aa, acqua, ioni, zucchero, siderofori, composti allopatici ee, in generale \emph{essudati radicali}.
+Già a concentrazioni molto basse si ha inibizione della crescita sia della parte epigea che della parte ipogea (già a 60 $\mu M$). La pianta cerca di rispondere a questa esposizione: ad esempio tramite associazioni miccorrizziche, che riescono a mantenere la tolleranza. Tramite le radici le piante rilasciano moltissime sostanze quali aa, acqua, ioni, zucchero, siderofori, composti allopatici e, in generale \emph{essudati radicali}.
 
 La pianta riesce sia ad evitare l'assorbimento, ma anche a tollerare i metalli pesanti: immobilizzarli mediante aa, proteine o peptidi, per evitare che arrivino all'interno delle cells e mantenerli nello spazio extracellulare, oppure legandoli in modo da non renderli più tossici. Le \emph{pectine} sono importanti perchè hanno gruppi CO- che agiscono da scambiatori cationici: i metalli quindi vengono legati da questi gruppi carbossilici e restano nella parete.
  
-I metalli tossici vengono anche inattivati dalle \emph{fitochelatine} (PCs), peptidi comproteici che sono essenziali per la tolleranza ai metalli pesanti, in particolare al cadmio. Esse, come gli acidi organici, complessano i metalli pesanti, che vengono trasportati nel vacuolo dove si accumulano (insieme alle metallotioneine).  Sono costuituiti da 3 aa (Glu-cys-gly). Derivano dal \emph{glutatione}: due molecole di glutatione si uniscono e perdono la gly...
+I metalli tossici vengono anche inattivati dalle \emph{fitochelatine} (PCs), peptidi che sono essenziali per la tolleranza ai metalli pesanti, in particolare al cadmio. Esse, come gli acidi organici, complessano i metalli pesanti, che vengono trasportati nel vacuolo dove si accumulano (insieme alle metallotioneine).  Sono costuituiti da 3 aa (Glu-cys-gly). Derivano dal \emph{glutatione}: due molecole di glutatione si uniscono e perdono la gly...
  C'è un legame tra la fitochelatina e il metallo: i gruppi tiolici li rendono solubili in acqua e per questo il complesso riesce ad entrare nel vacuolo, o con antitrasportatori che buttnao fuori H+ e fanno entrare il complesso, o tramite i trasportatori ABC (ATP binding cassette).
  
 Una volta entrati nel vacuolo, questi complessi incorporano solfuro inorganico e ioni solfito: diventano più stabili e rendono possibile la dissociazione del metallo dal complesso. Le fitochelatine quindi sono degradate e gli aa vanno nel citoplasma.
@@ -3232,6 +3244,50 @@ Si avrà quindi un nuovo punto ottimale (vedi foto sul cell).
 
 Anche la capacità di carbossilazione cambia al cambiare dell'attività della RuBisCO.
 
-Come cambia la curva di fotosintesi/$CO_{2}$ nelle piante C3?cl
+Come cambia la curva di fotosintesi/$CO_{2}$ nelle piante C3?
+
+(25.05.15)
+
+Fra la $CO_{2}$ nell'atmosfera e negli spazi intercellulari c'è la barriera degli stomi: A basse concentrazioni di $CO_{2}$ la fotosintesi è limitata dalla $CO_{2}$ stessa. Misurando la velocità di fotosintesi e la conduttanza stomatica, oltre alla concentrazione intercellulare di $CO_{2}$, possiamo descrivere la curva.
+
+Cosa succede quando aumenta la concentrazione atmosferica di $CO_{2}$? Di solito aumenta l'attività fotosintetica. Ciò avviene perchè si verificaun fenomeno di \emph{acclimatazione}, che dipende dal cambiamento dell'andamento della curva di domanda. Per cambiare l'andamento può cambiare la capacità di carbossilazione (parte iniziale della curva) o cambiare la parte finale della curva, in cui la concentrazione di $CO_{2}$ è più elevata, o entrambi.
+La capacità di carbossilazione dipende dall'attività della RuBisCO.
+
+Quando cambia la capacità di carbossilazione, nella prima parte della curva, cosa succede? Esposizione improvvisa della pianta ad una concentrazione di $CO_{2}$ molto più alta di quella atmosferica: immediatamente la semiretta di offerta si sposta, si ha abbuffata di $CO_{2}$ per la pianta, la quale diffonde velocemente verso gli stomi \lfreccia aumenta la velocità di fotosintesi. Questa risposta viene frenata dalla \emph{riduzione della conduttanza stomatica}, che graficamente si vede come una riduzione della pendenza della semiretta di offerta. Il punto intercettato però non è stabile quanto quello di equilibrio: siamo in una zona in cui la fotosintesi è fortemente limitata dalla velocità di rigenerazione del RuBP. Se la fotosintesi si stabilizzasse in un punto in cui essa è limitata soprattutto da una delle due fasi, significa che l'altra fase è in eccesso, e si ha uno \emph{spreco di RuBisCO}. La pianta sarebbe in grado di fissare troppa $CO_{2}$ rispetto alla velocità di rigenerazione del RuBP.  
+
+La soluzione migliore nel lungo periodo è \emph{ridurre la capacità di carbossilazione} riducendo prima l'attività dell'enzima e poi la concentrazione dell'enzima. fino a che la curva raggiunge il caso in cui il punto ottimale cade nella zona in cui la fotosintesi è limitata dalla velocità di riduzione di RuBP. 
+
+Quindi, in risposta all'aumento della $CO_{2}$ c'è un minor investimento della pianta nell'attività della RuBisCO. Questo è il meccanismo più frequente.
+
+Le C4 mostrano una risposta inferiore, perchè hanno un meccanismo interno di concentrazione della $CO_{2}$.
+
+L'altra risposta può essere un \emph{aumento della velocità di rigenerazione del RuBP}: l'acclimatazione della fotosintesi dipende solo in pochi casi dal cambiamento della velocità di trasporto degli elettroni. Esposizione di piantite acclimatate al livello di $CO_{2}$ normale, che hanno il punto di equilibrio in a, ad alta concentrazione di $CO_{2}$: la pianta mantiene elevata conduttanza stomatica (rispetto alla risposta che riduce la capacità di carbossilazione). Sulla curva non tratteggiata si ha un punto instabile: la pianta risponde aumentando la velocità di rigenerazione del RuBP in modo tale che la semiretta di offerta individui un nuovo punto di equilibrio. La risposta è opposta a prima. La pianta però deve sintetizzare molti più enzimi del ciclo di Calvin (eccetto la RuBisCO) e trasportatori di elettroni, per avere più ATP e NADPH. La pianta quindi spende di più, accelera sia la fase luminosa che il ciclo di Calvin, mentre la capacità di carbossilazione resta invariata.
+
+Si ha la spesa di C ed N: il N però può essere una risorsa limitante, perchè è presente nel suolo, ma la sua concentrazione non varia molto. Ecco perchè questa risposta è più rara: si può avere solo se la pianta dispone di abbondanza di acqua e nutrienti minerali, in particolare azoto, nel terreno. 
+
+Quando riportiamo la pianta a condizioni normali di concentrazione della $CO_{2}$, in alcuni casi la pianta torna velocemente alle condizioni preesistenti l'esperimento. In altri casi invece questo periodo di acclimatazione lascia dei segni: la pianta, riportata in condizioni normali, mostra minore velocità fotosintetica. 
+Nel caso dell'aumento della capacità di rigenerazione di RuBP, la pianta si riabitua subito alle condizioni normali di $CO_{2}$: la velocità di fotosintesi torna sui livelli pre-esperimento perchè non è variata la capacità di carbossilazione, la RuBisCO funziona sempre nello stesso modo, e non è variata la conduttanza stomatica (pendenza della semiretta di offerta). Nel caso della riduzione della capacità di carbossilazione, più frequente, la velocità fotosintetica diminuisce. Questo è un tipo di risposta conservativo.
+
+\subsection{Meccanismi biochimici}
+Risposta a feedback. Interessa cosa accade a livello della capacità di carbossilazione e della velocità di rigeneerazione del RuBP. Ciò si ripercuote sui geni della fotosintesi: la loro trascrizione dipende dalla disponibilità di tante risorse, tra cui la $CO_{2}$.
+
+La limitazione della capacità di carbossilazione si ottiene agendo sulla RuBisCO: la sua concentrazione dipende dalla disponibilità di C, N es ATP e NADPH, ma soprattutto dalla presenza di N\footnote{perchè in condizioni di alta $CO_{2}$ il C è più facilmente reperibile}. Le C3 limitano l'assorbimento del N in alte concentrazioni di $CO_{2}$, perchè hanno bisogno di meno RuBisCO. L'N richiede per la sua assimilazione il 25\% di tutti i consumi energetici della pianta. Assorbire il nitrato dal terreno, ridurlo a nitrito, poi ad ammonio e incorporarlo negli aa richiede molta energia e potere riducente (8 elettroni per 1 N).
+
+Le piante coltivate rispondono tutte con aumento di velocità di rigenerazione di RuBP? Non tutte! alcune abbassano la velocità di carbossilazione, riducendo l'assorbimento e l'assimilazione di N, penalizzando anche altri enzimi e proteine, oltre alla RuBisCO, alcune delle quali sono \emph{proteine di riserva}, che fanno da nutrimento.
+
+Ci sono diverse specie arboree in cui, in risposta ad aumento di $CO_{2}$ atmosfera, aumenta la crescita di nuovi organi, come la superficie fogliare e le radici sottili, in cui c'è maggior velocità di assorbimento.
+
+Si ha anche interazione tra $CO_{2}$ e fattori ambientali, abiotici e biotici: riduzione della sintesi di molti metaboliti secondari azotati, che comprendono anche molte sostanze di difesa.
+
+
+
+
+
+
+
+
+
+
+
 
 \end{document}
